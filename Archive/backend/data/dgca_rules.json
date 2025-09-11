@@ -1,0 +1,110 @@
+{
+  "daily_max_duty_hrs": {
+    "Captain": 12,
+    "First Officer": 12,
+    "Senior Cabin": 14,
+    "Cabin": 14
+  },
+  "weekly_max_duty_hrs_default": 65,
+  "min_rest_hours_between_duties": 12,
+  "turnaround_minutes": 15,
+
+  "night_duty_window": {
+    "start_local": "22:00",
+    "end_local": "05:00"
+  },
+  "wocl_window": {
+    "start_local": "02:00",
+    "end_local": "06:00"
+  },
+  "max_overnight_duties_per_week": 5,
+  "max_consecutive_night_duties": 3,
+
+  "fdp_rules": [
+    { "max_flight_time_hrs": 8,  "max_fdp_hrs": 12, "max_landings": 6 },
+    { "max_flight_time_hrs": 11, "max_fdp_hrs": 15, "max_landings": 3 },
+    { "max_flight_time_hrs": 14, "max_fdp_hrs": 18, "max_landings": 1 },
+    { "max_flight_time_hrs": 22, "max_fdp_hrs": 22, "max_landings": 1, "ulr": true }
+  ],
+  "fdp_wocl_reduction": {
+    "starts_in_wocl_factor": 1.0,
+    "overlaps_wocl_factor": 0.5
+  },
+
+  "flight_time_limits": {
+    "hours_7_days": 40,
+    "hours_28_days": 115,
+    "hours_90_days": 300,
+    "hours_365_days": 1000
+  },
+  "duty_time_limits": {
+    "hours_7_days": 65,
+    "hours_28_days": 210
+  },
+
+  "rest_requirements": {
+    "daily_rest_min_hours": 12,
+    "tz_crossing": [
+      { "max_timezones": 3, "min_rest_hours": 12 },
+      { "max_timezones": 7, "min_rest_hours": 14 },
+      { "over_timezones": 7, "min_rest_hours": 36 }
+    ],
+    "weekly_rest": {
+      "min_hours": 36,
+      "require_two_local_nights": true,
+      "max_gap_between_weekly_rests_hours": 168
+    }
+  },
+
+  "standby": {
+    "rostered_notice_min_hours": 12,
+    "home_max_hours": 12,
+    "airport_max_hours": 8,
+    "counting_rules": {
+      "airport_counts_to_duty_pct": 100,
+      "airport_to_fdp_if_flown_pct": 50,
+      "home_callup_over_6h_reduce_fdp_pct": 50,
+      "home_no_flight_counts_to_duty_pct": 25
+    },
+    "post_standby_rest": {
+      "after_home_min_hours": 8,
+      "after_airport_min_hours": 12
+    }
+  },
+
+  "discretion": {
+    "ft_extension_max_hours": 1.5,
+    "fdp_extension_max_hours": 4,
+    "extra_landings_max": 1,
+    "extra_night_sequences_limit_per_28_days": 1,
+    "compensatory_rest_multiplier": 2.0
+  },
+
+  "composition": {
+    "cabin": {
+      "min_by_seats": [
+        { "min_seats": 10, "max_seats": 50,  "min_cabin_crew": 1 },
+        { "min_seats": 51, "max_seats": 100, "min_cabin_crew": 2 },
+        { "min_seats": 101, "step": 50,      "extra_per_step": 1 }
+      ],
+      "defaults_by_aircraft": {
+        "A320": 4,
+        "ATR72": 2
+      },
+      "sccm": {
+        "required_if_cc_gt_1": true,
+        "min_sccm_ulh": 2,
+        "experience_min_months": 12
+      }
+    },
+    "cockpit": {
+      "min_standard": { "captains": 1, "first_officers": 1 },
+      "augmented_threshold_hours": 8.0,
+      "augmented_crew_min": 3
+    }
+  },
+
+  "ulh_ft_threshold_hours": 11.0,
+
+  "notes": "DGCA CAR Sec 7 Series J Part I FDP/FT/Duty/Rest/WOCL/Standby/Discretion/Composition (simplified for prototype). Some constraints are approximated; exact duty-period modeling and time-zone math are out of scope for this POC."
+}

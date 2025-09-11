@@ -1,0 +1,7 @@
+crew_id,requested_days_off,preferred_sectors
+CPT01,,DEL-BOM
+CPT02,,BLR-HYD
+FO01,,DEL-BOM
+FO02,,CCU-MAA
+CC01,,DEL-BOM|BLR-HYD
+CC05,,BLR-HYD

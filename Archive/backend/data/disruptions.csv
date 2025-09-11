@@ -1,0 +1,4 @@
+flight_id,date,dep_airport,arr_airport,dep_dt,arr_dt,aircraft_type,disruption_type,delay_minutes
+AI102,2025-09-08,BOM,BLR,2025-09-08 10:00:00,2025-09-08 12:00:00,A320,Delay,180
+AI206,2025-09-09,DEL,AMD,2025-09-09 21:30:00,2025-09-09 23:45:00,A320,Delay,90
+AI105,2025-09-08,CCU,DEL,2025-09-08 18:00:00,2025-09-08 20:30:00,A321,Cancellation,0

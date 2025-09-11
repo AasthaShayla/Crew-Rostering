@@ -1,0 +1,1401 @@
+crew_id,name,role,base,qualified_types,weekly_max_duty_hrs,leave_status,sccm_certified,experience_months
+CPT001,Capt. Diya Bhatt,Captain,BOM,A320|A350|B777,80,Available,False,90
+CPT002,Capt. Rajesh Reddy,Captain,BLR,B737|A320|ATR72|B777|A350,85,Available,False,147
+CPT003,Capt. Rajesh Pandey,Captain,MAA,A350|B737|ATR72|A320,75,Available,False,84
+CPT004,Capt. Geeta Malhotra,Captain,DEL,B737|A350|A320,80,Available,False,218
+CPT005,Capt. Suresh Iyer,Captain,DEL,A321|A350|A320|B737,85,Available,False,216
+CPT006,Capt. Anaya Tiwari,Captain,DEL,A320|A321|A350|ATR72,85,Available,False,87
+CPT007,Capt. Riya Saxena,Captain,MAA,A320|B777|A350|B737,75,Available,False,225
+CPT008,Capt. Kira Rao,Captain,HYD,A320|B777|A321,80,Available,False,170
+CPT009,Capt. Kiara Saxena,Captain,BOM,A320|B777|A321|A350,85,Available,False,177
+CPT010,Capt. Rita Tiwari,Captain,HYD,A320|A321|A350|B737|ATR72,80,Available,False,132
+CPT011,Capt. Suresh Gupta,Captain,HYD,B777|ATR72|B737,80,Available,False,196
+CPT012,Capt. Suresh Agarwal,Captain,HYD,B737|B777|A320|A350,75,Available,False,158
+CPT013,Capt. Aarav Jain,Captain,BLR,B737|B777|A350|ATR72|A321,80,Available,False,161
+CPT014,Capt. Arnav Singh,Captain,HYD,B737|A350|A321,85,Available,False,85
+CPT015,Capt. Sunita Saxena,Captain,CCU,A350|A321|B777|A320|B737,85,Available,False,190
+CPT016,Capt. Reyansh Rao,Captain,HYD,B737|ATR72|B777|A321,80,Available,False,155
+CPT017,Capt. Kira Saxena,Captain,CCU,A321|ATR72|A350|A320|B737,75,Training,False,70
+CPT018,Capt. Vihaan Shukla,Captain,MAA,A321|ATR72|A350|A320|B737,80,Available,False,106
+CPT019,Capt. Aarush Tiwari,Captain,CCU,B737|A320|A321|A350,75,Available,False,79
+CPT020,Capt. Kira Shah,Captain,MAA,A321|B737|B777|ATR72|A350,75,Available,False,191
+CPT021,Capt. Kiara Pandey,Captain,BLR,B777|A320|ATR72,75,Available,False,223
+CPT022,Capt. Tara Rao,Captain,MAA,A320|A350|B737|A321,85,Available,False,222
+CPT023,Capt. Arjun Joshi,Captain,CCU,A320|ATR72|B777|A321,85,Available,False,105
+CPT024,Capt. Nita Joshi,Captain,BLR,A320|A350|A321,85,Available,False,116
+CPT025,Capt. Ramesh Shah,Captain,BOM,ATR72|A320|A350|B737,75,Available,False,217
+CPT026,Capt. Suresh Sharma,Captain,HYD,B737|A321|A320,75,Available,False,120
+CPT027,Capt. Aisha Bansal,Captain,HYD,A350|A321|ATR72|B777,75,Available,False,86
+CPT028,Capt. Kiara Desai,Captain,DEL,A320|ATR72|B737|A350|A321,85,Available,False,89
+CPT029,Capt. Mahesh Patel,Captain,CCU,A320|A321|B737,80,Available,False,67
+CPT030,Capt. Dinesh Shah,Captain,DEL,A350|A321|ATR72|A320,85,Available,False,232
+CPT031,Capt. Vihaan Singh,Captain,MAA,A320|A350|ATR72|B737|B777,85,Available,False,91
+CPT032,Capt. Rajesh Tiwari,Captain,BOM,A321|ATR72|A350,75,Available,False,78
+CPT033,Capt. Arnav Patel,Captain,BLR,B737|ATR72|A350|A320,80,Available,False,196
+CPT034,Capt. Nisha Joshi,Captain,HYD,B737|A350|A321|ATR72,75,Available,False,202
+CPT035,Capt. Naresh Menon,Captain,BOM,A321|B737|ATR72,80,Available,False,73
+CPT036,Capt. Arjun Rao,Captain,MAA,A350|B777|A321,85,Available,False,146
+CPT037,Capt. Kira Jain,Captain,MAA,ATR72|B737|A321|A320|A350,80,Available,False,217
+CPT038,Capt. Atharv Tiwari,Captain,BLR,A320|A350|ATR72,85,Available,False,122
+CPT039,Capt. Atharv Jain,Captain,DEL,A320|B777|A321|ATR72|A350,80,Available,False,181
+CPT040,Capt. Kavya Agarwal,Captain,HYD,A350|A320|ATR72|B737,85,Available,False,234
+CPT041,Capt. Geeta Nair,Captain,CCU,B737|B777|A321|A320,75,Available,False,187
+CPT042,Capt. Ramesh Gupta,Captain,BOM,A320|A321|A350,85,Available,False,84
+CPT043,Capt. Arjun Joshi,Captain,HYD,B777|ATR72|A320|A350,80,Available,False,101
+CPT044,Capt. Reyansh Mishra,Captain,DEL,A320|B777|A350,80,Available,False,157
+CPT045,Capt. Nisha Agarwal,Captain,CCU,B737|B777|A350|ATR72|A320,80,Available,False,88
+CPT046,Capt. Rohan Tiwari,Captain,DEL,A350|ATR72|B777|A321,85,Available,False,229
+CPT047,Capt. Anaya Bansal,Captain,HYD,A320|ATR72|B777|A321|B737,85,Available,False,69
+CPT048,Capt. Kabir Jain,Captain,DEL,A320|A350|B777|A321|B737,75,Available,False,90
+CPT049,Capt. Geeta Nair,Captain,CCU,B737|B777|A321|A320,85,Available,False,129
+CPT050,Capt. Nita Bhatt,Captain,HYD,B777|B737|A321|ATR72,80,Available,False,177
+CPT051,Capt. Rajesh Desai,Captain,MAA,ATR72|A350|B737|A321,80,Available,False,73
+CPT052,Capt. Kiara Verma,Captain,BOM,B737|A321|A350|ATR72|A320,75,Available,False,95
+CPT053,Capt. Reyansh Choudhury,Captain,HYD,A321|A320|B737|B777,85,Available,False,158
+CPT054,Capt. Dinesh Iyer,Captain,MAA,B777|A350|A320,85,Available,False,104
+CPT055,Capt. Saanvi Tiwari,Captain,DEL,A350|A320|ATR72|A321,75,Available,False,120
+CPT056,Capt. Kira Menon,Captain,MAA,A350|B737|A321|ATR72|B777,85,Available,False,178
+CPT057,Capt. Meera Kapoor,Captain,BOM,A321|ATR72|A320,75,Available,False,235
+CPT058,Capt. Ishaan Bansal,Captain,BOM,A350|A321|B777,85,Available,False,102
+CPT059,Capt. Reyansh Nair,Captain,CCU,B777|A321|B737|ATR72,85,Available,False,174
+CPT060,Capt. Rita Verma,Captain,MAA,ATR72|A321|A320|A350,85,Available,False,103
+CPT061,Capt. Dinesh Choudhury,Captain,MAA,ATR72|A350|B737,85,Available,False,156
+CPT062,Capt. Mira Iyer,Captain,CCU,B737|A350|A321|B777|A320,85,Available,False,153
+CPT063,Capt. Meera Sinha,Captain,BLR,ATR72|A350|A320|B737,85,Available,False,133
+CPT064,Capt. Ishaan Khan,Captain,MAA,A350|ATR72|A321|B737,75,Available,False,176
+CPT065,Capt. Sunita Bansal,Captain,MAA,A350|B737|B777|ATR72,75,Available,False,160
+CPT066,Capt. Atharv Dubey,Captain,BOM,A321|A350|ATR72|B777,85,Available,False,199
+CPT067,Capt. Sita Malhotra,Captain,BOM,B737|ATR72|A321|B777,80,Available,False,223
+CPT068,Capt. Sita Agarwal,Captain,HYD,A320|A350|ATR72,80,Available,False,211
+CPT069,Capt. Zara Khan,Captain,HYD,A320|ATR72|B737|B777|A321,85,Available,False,155
+CPT070,Capt. Naresh Dubey,Captain,DEL,B777|A321|A350|A320,85,Available,False,146
+CPT071,Capt. Kiara Joshi,Captain,HYD,B737|A320|B777|A350,85,Available,False,188
+CPT072,Capt. Ramesh Iyer,Captain,BOM,A320|A321|B737,80,Available,False,238
+CPT073,Capt. Atharv Chandra,Captain,BOM,ATR72|A350|B777,80,Available,False,121
+CPT074,Capt. Sita Mishra,Captain,HYD,A320|ATR72|B777|B737,85,Available,False,151
+CPT075,Capt. Diya Khan,Captain,CCU,A320|B777|B737|A321,75,Available,False,123
+CPT076,Capt. Reyansh Sinha,Captain,DEL,B737|A321|A320,80,Available,False,158
+CPT077,Capt. Aisha Shah,Captain,BLR,A350|A320|A321|B777|B737,80,Available,False,94
+CPT078,Capt. Aarav Singh,Captain,DEL,B777|B737|A350,80,Available,False,95
+CPT079,Capt. Zara Chandra,Captain,CCU,A321|ATR72|A320|A350|B737,80,Available,False,72
+CPT080,Capt. Rajesh Shah,Captain,HYD,ATR72|A350|A321|B777,75,Available,False,221
+CPT081,Capt. Ishaan Agarwal,Captain,MAA,B737|B777|ATR72|A320|A350,85,Available,False,156
+CPT082,Capt. Mira Desai,Captain,BOM,A320|ATR72|A350,75,Available,False,156
+CPT083,Capt. Dinesh Shah,Captain,DEL,B737|A321|A320,85,Available,False,189
+CPT084,Capt. Meera Malhotra,Captain,CCU,A320|ATR72|B777|A350,85,Available,False,155
+CPT085,Capt. Dinesh Bhatt,Captain,BLR,A320|B737|A321|ATR72,85,Available,False,215
+CPT086,Capt. Kira Bansal,Captain,BLR,ATR72|B777|A320|A321|A350,85,Available,False,194
+CPT087,Capt. Sunita Malhotra,Captain,HYD,B737|A320|A321|B777|ATR72,85,Available,False,238
+CPT088,Capt. Tara Chandra,Captain,CCU,ATR72|A320|A350|A321,85,Available,False,68
+CPT089,Capt. Kira Kapoor,Captain,HYD,B737|B777|A320,75,Available,False,177
+CPT090,Capt. Nita Verma,Captain,BOM,A321|ATR72|B777,85,Available,False,185
+CPT091,Capt. Rita Bansal,Captain,BLR,A350|ATR72|A321|A320,75,Available,False,76
+CPT092,Capt. Advait Khan,Captain,BLR,B777|ATR72|A321|B737|A320,75,Available,False,147
+CPT093,Capt. Aarav Iyer,Captain,BOM,A320|B737|A350|B777|ATR72,80,Available,False,100
+CPT094,Capt. Mira Rao,Captain,BOM,B737|B777|A321|A320,80,Available,False,70
+CPT095,Capt. Arnav Desai,Captain,MAA,A350|A320|B777|B737,85,Available,False,75
+CPT096,Capt. Advait Bhatt,Captain,BLR,A350|A321|B777|A320|ATR72,75,Available,False,190
+CPT097,Capt. Arnav Kapoor,Captain,BOM,ATR72|B777|A350|A320,80,Available,False,194
+CPT098,Capt. Ishaan Khan,Captain,DEL,B737|B777|A350|A320|ATR72,75,Available,False,108
+CPT099,Capt. Mahesh Kapoor,Captain,MAA,A321|A320|B737|ATR72,75,Available,False,166
+CPT100,Capt. Ira Chandra,Captain,DEL,A321|A350|A320|ATR72|B737,85,Available,False,206
+CPT101,Capt. Naresh Singh,Captain,HYD,B737|A350|ATR72|B777|A320,75,Available,False,229
+CPT102,Capt. Sunita Verma,Captain,MAA,B737|A320|A350|A321,85,Available,False,161
+CPT103,Capt. Mira Pandey,Captain,BLR,A320|A321|ATR72,80,Available,False,226
+CPT104,Capt. Arjun Pandey,Captain,BOM,A320|A321|B777,75,Available,False,220
+CPT105,Capt. Diya Menon,Captain,CCU,ATR72|B777|A320|B737,75,Available,False,203
+CPT106,Capt. Ganesh Shukla,Captain,HYD,B737|A350|A320,75,Available,False,163
+CPT107,Capt. Ishaan Nair,Captain,CCU,B777|A321|ATR72|A320,85,Available,False,134
+CPT108,Capt. Advait Reddy,Captain,BLR,A321|B737|A350,85,Available,False,66
+CPT109,Capt. Vivaan Bhatt,Captain,CCU,A320|B737|A350,85,Available,False,111
+CPT110,Capt. Vivaan Chandra,Captain,BOM,B777|A320|ATR72|A350,75,Available,False,236
+CPT111,Capt. Riya Shukla,Captain,HYD,B737|A350|B777|A321|ATR72,80,Available,False,105
+CPT112,Capt. Mahesh Nair,Captain,MAA,B737|B777|A321,80,Available,False,131
+CPT113,Capt. Kiara Dubey,Captain,BOM,A321|A350|B777,80,Available,False,129
+CPT114,Capt. Suresh Desai,Captain,BOM,A350|B737|A321|A320,80,Available,False,216
+CPT115,Capt. Ramesh Pandey,Captain,BLR,A320|A350|B737|ATR72,85,Available,False,172
+CPT116,Capt. Zara Menon,Captain,MAA,ATR72|A350|B777|A320,85,Available,False,172
+CPT117,Capt. Atharv Patel,Captain,MAA,A350|A320|ATR72,80,Available,False,86
+CPT118,Capt. Arnav Gupta,Captain,BOM,B737|B777|ATR72|A350,85,Available,False,106
+CPT119,Capt. Vihaan Mishra,Captain,CCU,A350|A321|B777,85,Available,False,214
+CPT120,Capt. Geeta Sharma,Captain,BLR,A320|B737|B777,75,Available,False,159
+CPT121,Capt. Nita Patel,Captain,DEL,ATR72|A350|A320|A321,80,Available,False,223
+CPT122,Capt. Aarush Bansal,Captain,BLR,ATR72|A321|A350|B777|A320,80,Available,False,177
+CPT123,Capt. Aisha Shukla,Captain,BOM,B737|ATR72|A321|A350|B777,80,Available,False,88
+CPT124,Capt. Meera Bhatt,Captain,CCU,B777|B737|A321|ATR72|A320,80,Available,False,91
+CPT125,Capt. Sunita Tiwari,Captain,CCU,A350|ATR72|B777,75,Available,False,147
+CPT126,Capt. Vivaan Reddy,Captain,HYD,A320|B777|A350|B737,85,Available,False,104
+CPT127,Capt. Vihaan Jain,Captain,DEL,A321|B737|A320|A350|B777,85,Available,False,128
+CPT128,Capt. Dinesh Sinha,Captain,HYD,A320|A321|A350,85,Available,False,224
+CPT129,Capt. Aarush Mishra,Captain,DEL,B737|A320|A321|B777,85,Available,False,231
+CPT130,Capt. Geeta Chandra,Captain,HYD,ATR72|B777|A320|A321|A350,80,Available,False,114
+CPT131,Capt. Geeta Khan,Captain,BOM,B777|ATR72|B737|A350,80,Available,False,195
+CPT132,Capt. Rohan Singh,Captain,HYD,A350|A321|B737,80,Training,False,172
+CPT133,Capt. Rohan Kapoor,Captain,HYD,B777|A350|A320|ATR72,80,Available,False,149
+CPT134,Capt. Arjun Iyer,Captain,CCU,A321|A320|ATR72,80,Available,False,169
+CPT135,Capt. Ganesh Bansal,Captain,HYD,A321|B777|A320|A350|ATR72,85,Available,False,143
+CPT136,Capt. Priya Verma,Captain,MAA,ATR72|A321|B777,80,Available,False,160
+CPT137,Capt. Aarush Gupta,Captain,MAA,B737|B777|A321|A350,80,Available,False,67
+CPT138,Capt. Sita Saxena,Captain,DEL,A321|A350|A320|B737,75,Available,False,93
+CPT139,Capt. Dinesh Verma,Captain,MAA,ATR72|B777|A321|B737|A320,75,Available,False,97
+CPT140,Capt. Saanvi Sinha,Captain,BLR,ATR72|A321|B737|A320|B777,80,Available,False,77
+CPT141,Capt. Reyansh Mishra,Captain,DEL,B737|A321|ATR72|A320,80,Available,False,130
+CPT142,Capt. Kavya Shukla,Captain,HYD,A350|A320|A321|ATR72,85,Available,False,192
+CPT143,Capt. Sunita Iyer,Captain,MAA,A321|A320|ATR72|B737|B777,85,Available,False,166
+CPT144,Capt. Anaya Chandra,Captain,DEL,A321|B737|A320|A350,80,Available,False,132
+CPT145,Capt. Mira Reddy,Captain,MAA,A350|B737|A320|ATR72,85,Available,False,222
+CPT146,Capt. Mahesh Chandra,Captain,CCU,A321|ATR72|A320|B777|A350,80,Available,False,82
+CPT147,Capt. Ramesh Kapoor,Captain,BOM,A320|ATR72|B777,80,Available,False,75
+CPT148,Capt. Suresh Kapoor,Captain,MAA,B777|B737|A350|A320|ATR72,85,Available,False,234
+CPT149,Capt. Atharv Verma,Captain,BOM,B737|A321|A350|A320|ATR72,75,Available,False,141
+CPT150,Capt. Nita Gupta,Captain,BLR,A320|A350|ATR72|A321|B777,85,Available,False,168
+CPT151,Capt. Kabir Pandey,Captain,CCU,ATR72|A350|A320|B737,75,Available,False,62
+CPT152,Capt. Kiara Choudhury,Captain,BLR,A320|ATR72|A321|B737,75,Available,False,63
+CPT153,Capt. Tara Khan,Captain,BOM,ATR72|B737|A350|B777,85,Available,False,191
+CPT154,Capt. Ramesh Gupta,Captain,CCU,A321|ATR72|A320|A350|B777,85,Available,False,134
+CPT155,Capt. Atharv Singh,Captain,BOM,A350|ATR72|B737|A321,80,Available,False,138
+CPT156,Capt. Umesh Malhotra,Captain,HYD,B737|A321|ATR72|A350,85,Available,False,192
+CPT157,Capt. Aisha Patel,Captain,DEL,A350|A321|B737|ATR72,80,Available,False,197
+CPT158,Capt. Diya Choudhury,Captain,BLR,A321|B737|B777|A320,80,Available,False,119
+CPT159,Capt. Tara Agarwal,Captain,DEL,B737|A320|A350|ATR72|B777,75,Available,False,85
+CPT160,Capt. Meera Tiwari,Captain,DEL,ATR72|B777|A320,80,Available,False,96
+CPT161,Capt. Ishaan Joshi,Captain,DEL,A321|A350|B737|B777,80,Available,False,87
+CPT162,Capt. Vivaan Choudhury,Captain,HYD,B737|A350|ATR72|A321|A320,75,Available,False,115
+CPT163,Capt. Tara Rao,Captain,CCU,ATR72|A320|A321|A350,75,Available,False,214
+CPT164,Capt. Mahesh Bansal,Captain,MAA,A320|ATR72|B777|A321,75,Available,False,177
+CPT165,Capt. Naresh Sinha,Captain,DEL,B737|A350|ATR72|B777|A320,85,Available,False,162
+CPT166,Capt. Ramesh Pandey,Captain,BOM,B737|A320|A350|ATR72,80,Available,False,223
+CPT167,Capt. Nita Patel,Captain,BLR,B777|ATR72|B737|A320,85,Available,False,176
+CPT168,Capt. Ganesh Sinha,Captain,BOM,ATR72|B737|B777|A320|A321,80,Available,False,156
+CPT169,Capt. Geeta Kumar,Captain,HYD,A320|A350|B737,85,Available,False,164
+CPT170,Capt. Umesh Pandey,Captain,CCU,B737|A350|A320,80,Available,False,238
+CPT171,Capt. Atharv Shukla,Captain,BLR,ATR72|B777|B737|A321,85,Available,False,166
+CPT172,Capt. Geeta Jain,Captain,DEL,B777|ATR72|A350|B737,85,Available,False,191
+CPT173,Capt. Vivaan Mishra,Captain,DEL,B737|A321|A350|A320,85,Available,False,185
+CPT174,Capt. Kira Sinha,Captain,DEL,A320|B777|A350|ATR72,75,Available,False,154
+CPT175,Capt. Anaya Mishra,Captain,BLR,A321|B737|B777|A320,85,Available,False,136
+CPT176,Capt. Ishaan Patel,Captain,DEL,A321|B777|B737|A350|ATR72,80,Available,False,225
+CPT177,Capt. Meera Dubey,Captain,HYD,ATR72|A350|A321,75,Available,False,127
+CPT178,Capt. Vivaan Dubey,Captain,BOM,B777|ATR72|B737,85,Available,False,73
+CPT179,Capt. Sita Chandra,Captain,BOM,B737|A350|A320|ATR72|B777,80,Available,False,79
+CPT180,Capt. Saanvi Choudhury,Captain,BLR,ATR72|B777|A320|A321|B737,75,Available,False,117
+CPT181,Capt. Advait Shah,Captain,BLR,B777|A350|ATR72|A320|B737,80,Available,False,93
+CPT182,Capt. Umesh Kumar,Captain,MAA,A321|ATR72|A350,80,Available,False,192
+CPT183,Capt. Rajesh Reddy,Captain,DEL,A320|A350|A321,75,Available,False,96
+CPT184,Capt. Vihaan Khan,Captain,CCU,A320|B737|A350|A321|B777,80,Available,False,77
+CPT185,Capt. Nita Shukla,Captain,HYD,B737|B777|A321|ATR72|A350,85,Available,False,121
+CPT186,Capt. Priya Shukla,Captain,HYD,A320|B737|A321|A350,85,Available,False,190
+CPT187,Capt. Zara Desai,Captain,MAA,B777|A350|B737|A320|A321,85,Available,False,195
+CPT188,Capt. Reyansh Menon,Captain,CCU,A350|ATR72|B777|A321,75,Available,False,85
+CPT189,Capt. Mahesh Patel,Captain,DEL,A320|A321|B777|ATR72|B737,75,Available,False,239
+CPT190,Capt. Aarav Tiwari,Captain,DEL,ATR72|A321|B777|B737,80,Available,False,214
+CPT191,Capt. Tara Chandra,Captain,DEL,A350|ATR72|A320|B777,80,Available,False,137
+CPT192,Capt. Kabir Tiwari,Captain,CCU,A321|B777|ATR72|B737,85,Available,False,139
+CPT193,Capt. Kiara Sharma,Captain,DEL,ATR72|B737|A320|A321,80,Available,False,198
+CPT194,Capt. Zara Gupta,Captain,HYD,B777|B737|A320|ATR72|A321,80,Available,False,104
+CPT195,Capt. Rita Shah,Captain,BOM,B777|A321|ATR72|B737|A320,75,Available,False,164
+CPT196,Capt. Nisha Gupta,Captain,BLR,A321|B777|A320|ATR72|B737,85,Available,False,212
+CPT197,Capt. Geeta Chandra,Captain,HYD,A321|B777|A320,80,Available,False,166
+CPT198,Capt. Kabir Verma,Captain,BLR,B737|B777|ATR72,80,Available,False,202
+CPT199,Capt. Rajesh Kapoor,Captain,BLR,B737|A320|A350,75,Available,False,109
+CPT200,Capt. Arnav Choudhury,Captain,MAA,A350|B737|B777,80,Available,False,89
+FO001,FO. Kavya Mishra,First Officer,DEL,A350|B777|A320,75,Available,False,40
+FO002,FO. Sunita Agarwal,First Officer,DEL,B737|B777|A321|ATR72,80,Available,False,107
+FO003,FO. Sunita Gupta,First Officer,BLR,A321|ATR72|A350,75,Available,False,77
+FO004,FO. Aarush Kapoor,First Officer,CCU,ATR72|A320|B737|B777,75,Available,False,100
+FO005,FO. Arjun Jain,First Officer,DEL,A350|B777|A320|B737|ATR72,75,Available,False,25
+FO006,FO. Ganesh Singh,First Officer,DEL,A320|A350|B737|ATR72|A321,85,Available,False,108
+FO007,FO. Priya Jain,First Officer,BLR,ATR72|A320|A321,85,Available,False,72
+FO008,FO. Nita Pandey,First Officer,DEL,A321|B777|ATR72|A320|B737,75,Available,False,94
+FO009,FO. Ganesh Reddy,First Officer,BLR,A350|B737|A321|ATR72|A320,85,Available,False,87
+FO010,FO. Suresh Sinha,First Officer,BLR,A350|ATR72|B777,80,Available,False,24
+FO011,FO. Nita Shah,First Officer,DEL,B737|B777|A350,75,Available,False,39
+FO012,FO. Ishaan Malhotra,First Officer,BLR,B737|A350|A321|ATR72,75,Available,False,66
+FO013,FO. Ishaan Shah,First Officer,HYD,B777|A320|B737|A350,75,Available,False,100
+FO014,FO. Suresh Choudhury,First Officer,BLR,B777|A320|B737|A350|A321,80,Available,False,84
+FO015,FO. Diya Dubey,First Officer,HYD,A350|B777|A320,80,Available,False,26
+FO016,FO. Reyansh Dubey,First Officer,HYD,B777|A320|A350,85,Available,False,47
+FO017,FO. Ira Kapoor,First Officer,CCU,A320|A350|B737,75,Available,False,102
+FO018,FO. Suresh Choudhury,First Officer,HYD,ATR72|B737|A321|A320|A350,80,Available,False,33
+FO019,FO. Meera Menon,First Officer,BLR,A321|ATR72|B777,75,Available,False,56
+FO020,FO. Nisha Choudhury,First Officer,DEL,A320|A350|B737,80,Available,False,54
+FO021,FO. Aisha Sharma,First Officer,CCU,A320|B737|A321|A350|ATR72,80,Available,False,94
+FO022,FO. Kiara Shah,First Officer,BLR,A321|ATR72|B737,80,Available,False,87
+FO023,FO. Reyansh Verma,First Officer,CCU,A321|B777|B737,75,Available,False,31
+FO024,FO. Anaya Menon,First Officer,BOM,B737|A321|A320|A350,75,Available,False,33
+FO025,FO. Saanvi Singh,First Officer,HYD,A350|B737|B777,80,Available,False,33
+FO026,FO. Kabir Malhotra,First Officer,BOM,B777|B737|A321|A350|ATR72,75,Available,False,34
+FO027,FO. Aarush Dubey,First Officer,MAA,A350|A321|ATR72|B777,85,Available,False,113
+FO028,FO. Anaya Verma,First Officer,HYD,A320|ATR72|B777|A321,80,Available,False,109
+FO029,FO. Aarav Patel,First Officer,CCU,A320|ATR72|B737|A321|A350,80,Available,False,117
+FO030,FO. Zara Tiwari,First Officer,HYD,B777|ATR72|A350,75,Available,False,40
+FO031,FO. Riya Malhotra,First Officer,BLR,A320|ATR72|B737|B777,85,Available,False,79
+FO032,FO. Ramesh Chandra,First Officer,BLR,A350|A320|B737,80,Available,False,105
+FO033,FO. Rita Menon,First Officer,HYD,B777|A321|A350,80,Available,False,119
+FO034,FO. Kabir Joshi,First Officer,BOM,ATR72|A350|B737|A321,75,Training,False,56
+FO035,FO. Nisha Sharma,First Officer,CCU,ATR72|A321|A320|B737,85,Available,False,44
+FO036,FO. Nita Malhotra,First Officer,MAA,B737|B777|ATR72|A350|A321,80,Available,False,108
+FO037,FO. Geeta Agarwal,First Officer,BLR,A321|B777|A320,85,Available,False,116
+FO038,FO. Nisha Choudhury,First Officer,DEL,B737|A321|A320|ATR72|A350,80,Available,False,51
+FO039,FO. Meera Sinha,First Officer,MAA,A321|B737|A350,85,Available,False,97
+FO040,FO. Ira Patel,First Officer,CCU,B777|A350|A321,85,Available,False,42
+FO041,FO. Advait Tiwari,First Officer,DEL,A320|ATR72|A321|B737,80,Available,False,26
+FO042,FO. Naresh Dubey,First Officer,CCU,B777|ATR72|A350|A320,80,Available,False,70
+FO043,FO. Vihaan Singh,First Officer,BLR,A320|A350|B737,75,Available,False,107
+FO044,FO. Aisha Iyer,First Officer,BLR,A320|B777|A321|B737,75,Available,False,26
+FO045,FO. Ramesh Kumar,First Officer,HYD,A350|B737|A321,80,Available,False,40
+FO046,FO. Priya Shukla,First Officer,MAA,A350|A321|B737|A320,80,Available,False,85
+FO047,FO. Saanvi Jain,First Officer,HYD,ATR72|A321|B777,85,Available,False,111
+FO048,FO. Suresh Mishra,First Officer,CCU,A350|B737|A320|A321|ATR72,85,Training,False,81
+FO049,FO. Sunita Sharma,First Officer,CCU,A350|A320|B777|B737,85,Available,False,118
+FO050,FO. Geeta Reddy,First Officer,MAA,B737|B777|A350|ATR72|A320,85,Available,False,48
+FO051,FO. Vihaan Kumar,First Officer,MAA,ATR72|B777|A321,85,Available,False,103
+FO052,FO. Aarav Bansal,First Officer,CCU,A321|A320|A350,85,Available,False,113
+FO053,FO. Kavya Nair,First Officer,MAA,ATR72|A350|A320|B737,80,Available,False,76
+FO054,FO. Aarav Verma,First Officer,HYD,A321|A320|B737|B777,85,Available,False,52
+FO055,FO. Sunita Reddy,First Officer,CCU,A321|B777|B737|A320|ATR72,75,Available,False,111
+FO056,FO. Vihaan Khan,First Officer,BOM,B737|B777|A350,75,Available,False,93
+FO057,FO. Anaya Singh,First Officer,BLR,A320|A321|A350|ATR72|B777,80,Available,False,96
+FO058,FO. Rita Malhotra,First Officer,CCU,B777|A320|A321|A350|B737,85,Available,False,32
+FO059,FO. Sunita Kapoor,First Officer,BOM,B777|B737|A321,75,Available,False,34
+FO060,FO. Aarav Reddy,First Officer,DEL,A321|B737|A320|ATR72|B777,75,Available,False,64
+FO061,FO. Zara Saxena,First Officer,DEL,A320|B737|A350|A321|B777,75,Available,False,69
+FO062,FO. Aisha Shah,First Officer,DEL,ATR72|A350|A320,80,Available,False,69
+FO063,FO. Priya Menon,First Officer,BLR,A350|A320|B737|B777,75,Available,False,45
+FO064,FO. Vivaan Agarwal,First Officer,MAA,B737|A350|ATR72|B777|A321,75,Available,False,58
+FO065,FO. Rajesh Desai,First Officer,BOM,A350|A321|B737|A320|ATR72,80,Available,False,108
+FO066,FO. Ramesh Tiwari,First Officer,MAA,A320|B737|A350|A321|ATR72,85,Available,False,64
+FO067,FO. Mira Shah,First Officer,MAA,B737|A320|B777|A350,80,Available,False,28
+FO068,FO. Ramesh Tiwari,First Officer,CCU,ATR72|A321|B777,85,Available,False,102
+FO069,FO. Kira Reddy,First Officer,MAA,B737|A350|ATR72|A321,85,Available,False,88
+FO070,FO. Umesh Menon,First Officer,HYD,A321|B737|ATR72,80,Available,False,120
+FO071,FO. Ganesh Dubey,First Officer,BOM,B737|A350|B777,85,Training,False,74
+FO072,FO. Naresh Chandra,First Officer,BLR,A321|B737|ATR72,75,Available,False,90
+FO073,FO. Ira Singh,First Officer,DEL,A320|B777|A350|ATR72|B737,85,Available,False,98
+FO074,FO. Ira Gupta,First Officer,BLR,B777|A320|A350|B737|A321,85,Available,False,94
+FO075,FO. Kabir Sinha,First Officer,CCU,B737|A320|B777,75,Available,False,83
+FO076,FO. Aarush Kapoor,First Officer,BOM,A320|A350|B737,85,Available,False,111
+FO077,FO. Rajesh Reddy,First Officer,BOM,A320|A321|A350|B777|ATR72,75,Training,False,63
+FO078,FO. Geeta Joshi,First Officer,HYD,B777|A321|ATR72|A350|B737,75,Available,False,47
+FO079,FO. Geeta Khan,First Officer,DEL,A320|ATR72|A321,75,Available,False,44
+FO080,FO. Anaya Pandey,First Officer,DEL,ATR72|A320|A321|B777,85,Available,False,37
+FO081,FO. Priya Rao,First Officer,DEL,A321|B777|A350,85,Available,False,113
+FO082,FO. Kiara Sharma,First Officer,BOM,A320|B737|ATR72|A350,75,Available,False,120
+FO083,FO. Diya Menon,First Officer,HYD,A350|A320|ATR72|B777|A321,80,Available,False,38
+FO084,FO. Rohan Khan,First Officer,BOM,A350|ATR72|B737|A321,85,Available,False,94
+FO085,FO. Tara Bhatt,First Officer,MAA,A320|A321|A350,80,Available,False,66
+FO086,FO. Nita Saxena,First Officer,BLR,A350|A321|ATR72|B737,85,Available,False,36
+FO087,FO. Reyansh Iyer,First Officer,CCU,A320|A321|A350,85,Available,False,106
+FO088,FO. Ramesh Malhotra,First Officer,DEL,ATR72|B737|A350,80,Available,False,36
+FO089,FO. Ganesh Gupta,First Officer,HYD,B737|ATR72|B777|A320|A350,75,Available,False,69
+FO090,FO. Saanvi Pandey,First Officer,DEL,B777|A320|A350|ATR72|B737,85,Available,False,90
+FO091,FO. Zara Gupta,First Officer,BLR,B777|A321|B737|A320,85,Available,False,76
+FO092,FO. Meera Gupta,First Officer,BLR,A320|A350|A321|ATR72,85,Available,False,100
+FO093,FO. Meera Rao,First Officer,CCU,ATR72|A321|B777|A350|B737,85,Available,False,53
+FO094,FO. Suresh Bhatt,First Officer,BOM,B777|A321|ATR72|B737|A350,80,Available,False,26
+FO095,FO. Umesh Dubey,First Officer,BLR,B737|A320|ATR72,85,Available,False,69
+FO096,FO. Dinesh Chandra,First Officer,HYD,ATR72|B777|A350,80,Available,False,95
+FO097,FO. Zara Shukla,First Officer,HYD,A350|A321|ATR72,75,Available,False,29
+FO098,FO. Kiara Mishra,First Officer,CCU,B777|A321|ATR72,75,Available,False,25
+FO099,FO. Diya Bhatt,First Officer,BOM,B737|A320|ATR72|A321,80,Available,False,101
+FO100,FO. Mahesh Iyer,First Officer,MAA,ATR72|B777|A321,80,Available,False,53
+FO101,FO. Ganesh Sharma,First Officer,HYD,A321|B777|A320|A350|B737,80,Available,False,55
+FO102,FO. Ganesh Pandey,First Officer,HYD,B777|A350|A320,75,Available,False,41
+FO103,FO. Rita Iyer,First Officer,CCU,A350|ATR72|B777|A320|B737,75,Available,False,65
+FO104,FO. Aisha Tiwari,First Officer,BLR,B777|ATR72|A321|A350|B737,80,Available,False,71
+FO105,FO. Meera Dubey,First Officer,DEL,B777|A321|A350,80,Available,False,71
+FO106,FO. Rita Bansal,First Officer,BOM,A320|A321|ATR72|A350,75,Available,False,40
+FO107,FO. Sita Agarwal,First Officer,HYD,A320|A321|B777|B737,75,Available,False,98
+FO108,FO. Mira Joshi,First Officer,CCU,ATR72|B777|A350|A321,75,Available,False,26
+FO109,FO. Suresh Malhotra,First Officer,BOM,A350|A320|B737|ATR72,75,Available,False,64
+FO110,FO. Ira Gupta,First Officer,HYD,A350|ATR72|B737,75,Available,False,79
+FO111,FO. Arjun Singh,First Officer,BLR,B737|A320|A350|ATR72,85,Available,False,76
+FO112,FO. Kiara Patel,First Officer,DEL,ATR72|A320|B777|A350,80,Available,False,112
+FO113,FO. Kiara Joshi,First Officer,BLR,B737|A320|A350,85,Available,False,43
+FO114,FO. Ramesh Nair,First Officer,DEL,A321|ATR72|B737|A320,85,Available,False,51
+FO115,FO. Naresh Pandey,First Officer,BOM,B737|A320|A321,85,Available,False,104
+FO116,FO. Ganesh Malhotra,First Officer,HYD,A321|A350|A320|ATR72,80,Available,False,84
+FO117,FO. Ira Patel,First Officer,BLR,B777|B737|A321,85,Available,False,38
+FO118,FO. Nisha Bansal,First Officer,DEL,B737|A320|A350|A321|B777,85,Available,False,57
+FO119,FO. Rita Shah,First Officer,HYD,A321|ATR72|B777|A320|A350,80,Available,False,28
+FO120,FO. Nita Chandra,First Officer,BLR,B737|B777|A320|A350,80,Available,False,29
+FO121,FO. Rajesh Iyer,First Officer,BOM,A320|A321|B737|B777,75,Available,False,73
+FO122,FO. Ramesh Gupta,First Officer,HYD,B777|A320|ATR72|B737,80,Available,False,118
+FO123,FO. Priya Shah,First Officer,MAA,B777|B737|ATR72|A320|A350,85,Available,False,101
+FO124,FO. Kavya Mishra,First Officer,DEL,A320|A321|B777|ATR72|A350,85,Available,False,40
+FO125,FO. Vihaan Shukla,First Officer,BLR,A320|ATR72|B737|B777,75,Training,False,100
+FO126,FO. Diya Joshi,First Officer,BOM,ATR72|B777|A350|B737|A321,80,Available,False,31
+FO127,FO. Vihaan Choudhury,First Officer,DEL,B737|B777|ATR72,80,Available,False,59
+FO128,FO. Saanvi Rao,First Officer,BOM,A350|B737|B777|ATR72,85,Available,False,35
+FO129,FO. Anaya Sharma,First Officer,MAA,B737|B777|A350|A321,85,Available,False,60
+FO130,FO. Nisha Pandey,First Officer,BLR,B737|A350|ATR72|A321|B777,80,Available,False,88
+FO131,FO. Tara Sharma,First Officer,BLR,B777|B737|A350|A320,85,Available,False,53
+FO132,FO. Atharv Gupta,First Officer,HYD,ATR72|B737|A320|A350,80,Available,False,40
+FO133,FO. Kiara Shah,First Officer,BLR,A350|A320|B737,75,Available,False,110
+FO134,FO. Rita Rao,First Officer,BLR,ATR72|A320|B737|A350,80,Available,False,42
+FO135,FO. Dinesh Shukla,First Officer,BOM,B777|ATR72|A350|B737,80,Available,False,67
+FO136,FO. Tara Mishra,First Officer,CCU,A320|A350|A321|ATR72|B737,85,Available,False,60
+FO137,FO. Arjun Kumar,First Officer,CCU,B777|A350|B737|A320|A321,75,Available,False,108
+FO138,FO. Geeta Pandey,First Officer,CCU,B737|A321|A350|A320|ATR72,75,Available,False,104
+FO139,FO. Tara Agarwal,First Officer,BLR,B777|A350|B737,85,Training,False,89
+FO140,FO. Ishaan Kumar,First Officer,MAA,ATR72|B777|B737|A350,85,Available,False,102
+FO141,FO. Sunita Malhotra,First Officer,BLR,A350|B777|A320,80,Available,False,61
+FO142,FO. Vivaan Chandra,First Officer,CCU,A321|B737|B777|A350|A320,80,Available,False,68
+FO143,FO. Rohan Khan,First Officer,DEL,A320|B777|B737|A321|A350,80,Available,False,83
+FO144,FO. Saanvi Agarwal,First Officer,HYD,A350|ATR72|A321|B737|A320,75,Available,False,27
+FO145,FO. Vihaan Patel,First Officer,DEL,B777|A321|A320|B737|A350,75,Available,False,92
+FO146,FO. Kabir Rao,First Officer,BOM,B777|A320|A321|ATR72|A350,85,Available,False,50
+FO147,FO. Meera Bansal,First Officer,MAA,A321|A350|B777,75,Available,False,106
+FO148,FO. Geeta Chandra,First Officer,BOM,B777|B737|A320|ATR72|A321,85,Available,False,31
+FO149,FO. Vihaan Rao,First Officer,CCU,B737|A321|A320|A350|B777,80,Available,False,88
+FO150,FO. Rita Gupta,First Officer,CCU,ATR72|A321|A320,80,Available,False,76
+FO151,FO. Arnav Malhotra,First Officer,MAA,A320|B737|B777|ATR72,75,Sick,False,110
+FO152,FO. Sunita Dubey,First Officer,HYD,B737|A350|A320,80,Available,False,87
+FO153,FO. Zara Desai,First Officer,BOM,ATR72|B777|A320|A321|A350,80,Available,False,30
+FO154,FO. Tara Singh,First Officer,HYD,B737|A350|ATR72|A321|A320,75,Available,False,83
+FO155,FO. Geeta Tiwari,First Officer,CCU,ATR72|A321|A320|A350|B737,85,Available,False,51
+FO156,FO. Kavya Choudhury,First Officer,BOM,ATR72|A350|B737,75,Available,False,61
+FO157,FO. Geeta Khan,First Officer,CCU,B777|B737|A321|A350,80,Available,False,26
+FO158,FO. Rajesh Jain,First Officer,DEL,B777|B737|A320,85,Available,False,63
+FO159,FO. Saanvi Bansal,First Officer,DEL,A321|B737|ATR72|A320|B777,80,Available,False,33
+FO160,FO. Nisha Iyer,First Officer,HYD,A320|A350|B777|ATR72|A321,85,Available,False,108
+FO161,FO. Ganesh Kumar,First Officer,BOM,A321|A320|ATR72|B737,85,Available,False,82
+FO162,FO. Naresh Reddy,First Officer,CCU,B737|B777|ATR72,75,Available,False,48
+FO163,FO. Tara Bansal,First Officer,BOM,B777|A320|B737|A321,75,Available,False,109
+FO164,FO. Aarav Desai,First Officer,HYD,A321|A320|ATR72|A350,80,Available,False,56
+FO165,FO. Rita Jain,First Officer,BLR,B777|ATR72|A350,85,Available,False,29
+FO166,FO. Vihaan Shah,First Officer,HYD,B737|A350|ATR72|B777|A321,85,Available,False,83
+FO167,FO. Anaya Mishra,First Officer,DEL,B777|ATR72|A350,80,Available,False,98
+FO168,FO. Suresh Patel,First Officer,CCU,ATR72|A320|B777,80,Available,False,120
+FO169,FO. Rita Sinha,First Officer,BOM,A321|A320|A350|ATR72|B737,75,Available,False,28
+FO170,FO. Atharv Sinha,First Officer,BLR,B737|ATR72|A320|A321,75,Available,False,107
+FO171,FO. Vivaan Joshi,First Officer,DEL,B777|A350|B737,75,Available,False,54
+FO172,FO. Ira Patel,First Officer,BLR,A350|A320|A321,85,On Leave,False,47
+FO173,FO. Rajesh Reddy,First Officer,BLR,B737|A320|ATR72|B777,85,Available,False,97
+FO174,FO. Rohan Patel,First Officer,BOM,A350|ATR72|B737|B777|A320,80,Available,False,74
+FO175,FO. Sita Sharma,First Officer,HYD,A350|A321|B777|A320,80,Available,False,63
+FO176,FO. Saanvi Menon,First Officer,MAA,ATR72|A321|A350|B737|A320,85,Available,False,59
+FO177,FO. Vihaan Shah,First Officer,MAA,A320|ATR72|A321|B737|B777,85,Available,False,70
+FO178,FO. Umesh Pandey,First Officer,BLR,A350|A320|ATR72|B737|A321,85,Available,False,49
+FO179,FO. Aarav Malhotra,First Officer,HYD,A350|A321|ATR72|A320,75,Available,False,34
+FO180,FO. Diya Sinha,First Officer,BOM,A350|A320|A321,80,Available,False,112
+FO181,FO. Riya Sharma,First Officer,CCU,A321|B777|A350,75,Available,False,72
+FO182,FO. Ira Rao,First Officer,DEL,B777|B737|A321|A350|ATR72,85,Available,False,57
+FO183,FO. Rohan Malhotra,First Officer,HYD,B737|A321|B777|A320|A350,85,Available,False,36
+FO184,FO. Geeta Dubey,First Officer,BOM,A320|B777|B737|A321,80,Available,False,116
+FO185,FO. Arjun Kapoor,First Officer,BOM,ATR72|A320|B737|A350,80,Available,False,34
+FO186,FO. Nita Menon,First Officer,MAA,B737|A321|A350|B777|ATR72,75,Available,False,116
+FO187,FO. Sunita Khan,First Officer,HYD,ATR72|B777|A350|A321|B737,85,Available,False,75
+FO188,FO. Priya Menon,First Officer,DEL,A320|ATR72|A350|B737,80,Available,False,91
+FO189,FO. Kabir Sharma,First Officer,BLR,B777|ATR72|A350|A320,85,Available,False,54
+FO190,FO. Naresh Iyer,First Officer,BOM,A321|A350|B777,80,Available,False,106
+FO191,FO. Ira Singh,First Officer,BLR,A321|ATR72|A350,85,Available,False,104
+FO192,FO. Naresh Sinha,First Officer,BOM,ATR72|A350|A320|B777|A321,80,Available,False,92
+FO193,FO. Vivaan Sharma,First Officer,MAA,A350|B777|A320,80,Available,False,74
+FO194,FO. Rajesh Jain,First Officer,BOM,B737|B777|A320|ATR72|A350,80,Available,False,84
+FO195,FO. Mira Dubey,First Officer,BLR,A320|ATR72|B737,85,Available,False,73
+FO196,FO. Priya Pandey,First Officer,DEL,ATR72|B737|A321|A350,80,Available,False,114
+FO197,FO. Ramesh Menon,First Officer,HYD,A350|B777|ATR72,75,Available,False,51
+FO198,FO. Kabir Joshi,First Officer,BLR,A350|A320|ATR72,80,Available,False,47
+FO199,FO. Riya Bansal,First Officer,BOM,A320|B737|B777,80,Available,False,61
+FO200,FO. Vivaan Gupta,First Officer,DEL,B777|A350|A321,75,Available,False,87
+SC001,SC. Ishaan Bansal,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,93
+SC002,SC. Ramesh Khan,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,41
+SC003,SC. Kabir Mishra,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,126
+SC004,SC. Ira Chandra,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,108
+SC005,SC. Umesh Agarwal,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,40
+SC006,SC. Vivaan Saxena,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,70
+SC007,SC. Zara Mishra,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,161
+SC008,SC. Advait Mishra,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,159
+SC009,SC. Atharv Bansal,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,131
+SC010,SC. Tara Joshi,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,44
+SC011,SC. Nita Rao,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,80,Available,True,146
+SC012,SC. Umesh Desai,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,161
+SC013,SC. Priya Bhatt,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,162
+SC014,SC. Kira Saxena,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,96
+SC015,SC. Diya Iyer,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,48
+SC016,SC. Sunita Iyer,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,110
+SC017,SC. Ishaan Desai,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,115
+SC018,SC. Arjun Mishra,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Available,True,117
+SC019,SC. Ira Gupta,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,72
+SC020,SC. Mira Nair,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,51
+SC021,SC. Arjun Shah,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,91
+SC022,SC. Kira Choudhury,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,139
+SC023,SC. Priya Choudhury,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,87
+SC024,SC. Vivaan Desai,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,167
+SC025,SC. Aarush Mishra,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,105
+SC026,SC. Kiara Reddy,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,65
+SC027,SC. Kabir Choudhury,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,167
+SC028,SC. Diya Reddy,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,80,Available,True,160
+SC029,SC. Vivaan Rao,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,85,Available,True,112
+SC030,SC. Naresh Tiwari,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,89
+SC031,SC. Umesh Singh,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,132
+SC032,SC. Ishaan Saxena,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,152
+SC033,SC. Sita Malhotra,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Available,True,176
+SC034,SC. Rohan Choudhury,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,56
+SC035,SC. Arjun Nair,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,154
+SC036,SC. Anaya Rao,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,159
+SC037,SC. Kabir Pandey,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,164
+SC038,SC. Kiara Singh,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,72
+SC039,SC. Umesh Chandra,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,103
+SC040,SC. Aisha Bhatt,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,179
+SC041,SC. Rohan Singh,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,150
+SC042,SC. Kabir Verma,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,146
+SC043,SC. Sita Malhotra,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Sick,True,180
+SC044,SC. Nita Nair,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,85
+SC045,SC. Anaya Menon,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,63
+SC046,SC. Aarush Desai,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,168
+SC047,SC. Zara Jain,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,102
+SC048,SC. Kira Patel,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,75,Available,True,96
+SC049,SC. Nisha Iyer,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,164
+SC050,SC. Mira Saxena,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,103
+SC051,SC. Atharv Bansal,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,40
+SC052,SC. Zara Jain,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,On Leave,True,91
+SC053,SC. Ganesh Patel,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,147
+SC054,SC. Aisha Mishra,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,46
+SC055,SC. Rohan Dubey,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,78
+SC056,SC. Rohan Dubey,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,159
+SC057,SC. Zara Nair,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,117
+SC058,SC. Saanvi Dubey,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,63
+SC059,SC. Mahesh Agarwal,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,73
+SC060,SC. Naresh Verma,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,85,Available,True,65
+SC061,SC. Diya Jain,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,114
+SC062,SC. Anaya Gupta,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,42
+SC063,SC. Tara Pandey,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Available,True,175
+SC064,SC. Umesh Malhotra,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,107
+SC065,SC. Vivaan Khan,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,168
+SC066,SC. Sita Sharma,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,99
+SC067,SC. Aarav Khan,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,135
+SC068,SC. Sunita Kapoor,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Sick,True,38
+SC069,SC. Ganesh Agarwal,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,145
+SC070,SC. Kavya Shukla,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Available,True,56
+SC071,SC. Priya Pandey,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,86
+SC072,SC. Arnav Joshi,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,119
+SC073,SC. Rita Verma,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,164
+SC074,SC. Aisha Chandra,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,80,Available,True,122
+SC075,SC. Ramesh Malhotra,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,80,Available,True,136
+SC076,SC. Vihaan Verma,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,163
+SC077,SC. Kavya Chandra,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,85,Available,True,68
+SC078,SC. Priya Patel,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,80,Available,True,133
+SC079,SC. Rohan Malhotra,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,135
+SC080,SC. Reyansh Malhotra,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,155
+SC081,SC. Meera Verma,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,141
+SC082,SC. Ganesh Patel,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,157
+SC083,SC. Kira Mishra,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,94
+SC084,SC. Kira Khan,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,80,On Leave,True,171
+SC085,SC. Kira Chandra,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,135
+SC086,SC. Diya Menon,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,117
+SC087,SC. Saanvi Malhotra,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,166
+SC088,SC. Advait Khan,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,138
+SC089,SC. Umesh Malhotra,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,106
+SC090,SC. Anaya Reddy,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,160
+SC091,SC. Rohan Pandey,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,75
+SC092,SC. Diya Desai,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,134
+SC093,SC. Arjun Rao,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,122
+SC094,SC. Reyansh Menon,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,131
+SC095,SC. Aarush Reddy,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Available,True,103
+SC096,SC. Ira Sinha,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,60
+SC097,SC. Kira Chandra,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,164
+SC098,SC. Kiara Bhatt,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,145
+SC099,SC. Zara Gupta,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,131
+SC100,SC. Mahesh Bhatt,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,85,Available,True,39
+SC101,SC. Vihaan Pandey,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,80
+SC102,SC. Aisha Chandra,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,148
+SC103,SC. Aisha Jain,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,175
+SC104,SC. Ira Rao,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,85,Available,True,108
+SC105,SC. Rajesh Agarwal,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,71
+SC106,SC. Aisha Menon,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Sick,True,37
+SC107,SC. Nisha Malhotra,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,67
+SC108,SC. Naresh Kapoor,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,119
+SC109,SC. Mira Gupta,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,75,Available,True,101
+SC110,SC. Aarav Chandra,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,179
+SC111,SC. Tara Verma,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,97
+SC112,SC. Geeta Kapoor,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,152
+SC113,SC. Kira Khan,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,75,Available,True,132
+SC114,SC. Dinesh Joshi,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Available,True,168
+SC115,SC. Kavya Kumar,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,156
+SC116,SC. Saanvi Shah,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,127
+SC117,SC. Rita Reddy,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,70
+SC118,SC. Mahesh Iyer,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,80,On Leave,True,69
+SC119,SC. Aarush Rao,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,69
+SC120,SC. Suresh Menon,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,68
+SC121,SC. Zara Sinha,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,175
+SC122,SC. Geeta Kapoor,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,136
+SC123,SC. Advait Saxena,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,45
+SC124,SC. Aisha Pandey,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,104
+SC125,SC. Kiara Bansal,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,52
+SC126,SC. Umesh Shah,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,166
+SC127,SC. Vihaan Kapoor,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,169
+SC128,SC. Atharv Reddy,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,80
+SC129,SC. Vihaan Malhotra,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,120
+SC130,SC. Mira Malhotra,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,127
+SC131,SC. Rohan Bhatt,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,110
+SC132,SC. Mahesh Chandra,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,78
+SC133,SC. Geeta Shah,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,56
+SC134,SC. Aarush Shah,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,119
+SC135,SC. Zara Patel,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,42
+SC136,SC. Sunita Patel,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,80
+SC137,SC. Rita Kapoor,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,141
+SC138,SC. Aisha Reddy,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,80,Available,True,37
+SC139,SC. Reyansh Choudhury,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,106
+SC140,SC. Riya Agarwal,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,78
+SC141,SC. Mira Rao,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,93
+SC142,SC. Diya Bhatt,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,138
+SC143,SC. Sunita Verma,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,106
+SC144,SC. Kavya Bhatt,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,47
+SC145,SC. Zara Agarwal,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,37
+SC146,SC. Rajesh Iyer,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,168
+SC147,SC. Advait Jain,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,98
+SC148,SC. Tara Desai,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,128
+SC149,SC. Mira Iyer,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,75,Available,True,45
+SC150,SC. Kabir Desai,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,80,Available,True,162
+SC151,SC. Sunita Kapoor,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,160
+SC152,SC. Vivaan Joshi,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,74
+SC153,SC. Aarush Patel,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,94
+SC154,SC. Kavya Malhotra,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Available,True,61
+SC155,SC. Naresh Kapoor,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,118
+SC156,SC. Nisha Shukla,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,123
+SC157,SC. Vihaan Mishra,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,176
+SC158,SC. Kiara Patel,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,80,Available,True,55
+SC159,SC. Diya Shah,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,111
+SC160,SC. Atharv Agarwal,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,75
+SC161,SC. Geeta Khan,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,136
+SC162,SC. Kiara Bansal,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,137
+SC163,SC. Advait Iyer,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,74
+SC164,SC. Meera Malhotra,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,85,Available,True,59
+SC165,SC. Advait Choudhury,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,85,Available,True,108
+SC166,SC. Kavya Saxena,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Sick,True,39
+SC167,SC. Anaya Kapoor,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,174
+SC168,SC. Ganesh Mishra,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,38
+SC169,SC. Rita Pandey,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,80,Available,True,108
+SC170,SC. Tara Bhatt,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,85,Available,True,37
+SC171,SC. Advait Patel,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,80,Available,True,86
+SC172,SC. Ishaan Agarwal,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,Available,True,174
+SC173,SC. Advait Bhatt,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,80,Available,True,38
+SC174,SC. Arjun Iyer,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,66
+SC175,SC. Ira Khan,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,160
+SC176,SC. Ishaan Bhatt,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,75,Available,True,129
+SC177,SC. Dinesh Singh,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,135
+SC178,SC. Rajesh Mishra,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,46
+SC179,SC. Rohan Khan,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,150
+SC180,SC. Diya Rao,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,75,On Leave,True,100
+SC181,SC. Vihaan Bansal,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,85,Available,True,103
+SC182,SC. Meera Gupta,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,45
+SC183,SC. Tara Mishra,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Available,True,84
+SC184,SC. Anaya Rao,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,68
+SC185,SC. Dinesh Malhotra,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,80,Available,True,121
+SC186,SC. Geeta Shah,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,75,Available,True,61
+SC187,SC. Ira Bhatt,Senior Crew,DEL,A320|A321|B737|B777|A350|ATR72,80,Available,True,131
+SC188,SC. Vivaan Khan,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,75,Available,True,58
+SC189,SC. Anaya Desai,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,37
+SC190,SC. Sunita Shah,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,80,Available,True,144
+SC191,SC. Saanvi Kapoor,Senior Crew,BOM,A320|A321|B737|B777|A350|ATR72,85,Available,True,77
+SC192,SC. Zara Jain,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,47
+SC193,SC. Kabir Saxena,Senior Crew,MAA,A320|A321|B737|B777|A350|ATR72,75,Available,True,85
+SC194,SC. Suresh Saxena,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,85,Available,True,61
+SC195,SC. Kiara Menon,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,75,Available,True,111
+SC196,SC. Naresh Reddy,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,80,Available,True,47
+SC197,SC. Ganesh Kumar,Senior Crew,BLR,A320|A321|B737|B777|A350|ATR72,80,Sick,True,170
+SC198,SC. Naresh Patel,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,85,Available,True,140
+SC199,SC. Arjun Choudhury,Senior Crew,HYD,A320|A321|B737|B777|A350|ATR72,80,Available,True,105
+SC200,SC. Ramesh Sinha,Senior Crew,CCU,A320|A321|B737|B777|A350|ATR72,85,Available,True,171
+CC001,CC. Sunita Kapoor,Cabin Crew,HYD,A320|ATR72|A321|B777|B737|A350,80,Available,True,53
+CC002,CC. Arnav Choudhury,Cabin Crew,MAA,B737|A320|A350|ATR72|A321,75,Available,True,113
+CC003,CC. Sita Singh,Cabin Crew,CCU,A320|A350|B777|A321|B737|ATR72,85,Available,True,94
+CC004,CC. Tara Rao,Cabin Crew,DEL,A350|A321|ATR72|B777|B737,80,Available,True,83
+CC005,CC. Zara Chandra,Cabin Crew,MAA,A350|B737|A320|A321,85,Available,False,28
+CC006,CC. Rajesh Menon,Cabin Crew,DEL,A321|ATR72|B737|A350,85,Training,False,17
+CC007,CC. Advait Joshi,Cabin Crew,MAA,B737|ATR72|B777|A320|A321,75,Available,True,29
+CC008,CC. Saanvi Choudhury,Cabin Crew,HYD,B777|A321|B737|A350|A320,75,Available,False,106
+CC009,CC. Ramesh Saxena,Cabin Crew,DEL,A320|B777|A321|B737|ATR72,80,On Leave,False,48
+CC010,CC. Nita Patel,Cabin Crew,DEL,B777|A320|ATR72|A321|B737,80,Available,False,74
+CC011,CC. Naresh Agarwal,Cabin Crew,CCU,A321|ATR72|B737|A350,85,Available,False,113
+CC012,CC. Umesh Pandey,Cabin Crew,HYD,A321|ATR72|B777|A320|A350,75,Available,False,54
+CC013,CC. Sita Mishra,Cabin Crew,MAA,A321|A350|ATR72|B737|B777|A320,75,Available,False,83
+CC014,CC. Sunita Jain,Cabin Crew,DEL,A320|A350|B777|B737,75,Available,False,62
+CC015,CC. Kavya Sinha,Cabin Crew,CCU,ATR72|B777|A321|A320|B737|A350,85,Available,False,26
+CC016,CC. Ira Malhotra,Cabin Crew,DEL,ATR72|A350|B777|B737|A321|A320,85,Sick,False,12
+CC017,CC. Sita Reddy,Cabin Crew,HYD,A350|ATR72|B777|A321|B737,80,Available,True,95
+CC018,CC. Naresh Malhotra,Cabin Crew,HYD,B777|ATR72|A350|A321|A320|B737,80,Available,True,38
+CC019,CC. Aisha Nair,Cabin Crew,MAA,ATR72|B737|A321|A320,75,Available,True,92
+CC020,CC. Zara Shukla,Cabin Crew,CCU,B777|A350|A320|ATR72,85,Available,False,50
+CC021,CC. Aarush Bansal,Cabin Crew,HYD,A320|A350|ATR72|B777|B737|A321,80,Available,True,35
+CC022,CC. Suresh Patel,Cabin Crew,HYD,A350|A320|B777|A321,75,Available,False,15
+CC023,CC. Naresh Dubey,Cabin Crew,MAA,A321|ATR72|B777|B737|A350|A320,85,Available,True,35
+CC024,CC. Nita Kumar,Cabin Crew,BOM,A321|A320|A350|ATR72|B777|B737,75,Available,False,15
+CC025,CC. Arnav Chandra,Cabin Crew,BLR,B777|A350|A320|ATR72|A321,85,Available,False,88
+CC026,CC. Kira Sinha,Cabin Crew,MAA,B777|A350|A320|B737|A321,85,Available,False,76
+CC027,CC. Kira Iyer,Cabin Crew,BLR,A320|A321|ATR72|B777|A350,80,Available,False,92
+CC028,CC. Kira Rao,Cabin Crew,MAA,A350|B777|B737|ATR72|A320,85,Available,True,59
+CC029,CC. Kavya Choudhury,Cabin Crew,DEL,B737|A320|ATR72|A321,75,Available,True,15
+CC030,CC. Zara Sharma,Cabin Crew,BOM,ATR72|A350|B737|A320,75,Available,True,54
+CC031,CC. Zara Verma,Cabin Crew,MAA,B777|A320|B737|A350,75,Available,True,115
+CC032,CC. Suresh Shukla,Cabin Crew,HYD,ATR72|B777|B737|A321,85,Available,False,49
+CC033,CC. Advait Shukla,Cabin Crew,DEL,A321|A350|B737|B777|A320|ATR72,80,Available,True,47
+CC034,CC. Meera Pandey,Cabin Crew,CCU,A321|ATR72|B737|A320,75,Available,True,59
+CC035,CC. Tara Sharma,Cabin Crew,HYD,A350|ATR72|A320|A321,85,Available,False,17
+CC036,CC. Ira Rao,Cabin Crew,DEL,B737|A320|B777|A321|ATR72,80,Available,True,26
+CC037,CC. Aarav Patel,Cabin Crew,DEL,B737|A320|A321|A350,85,Available,True,28
+CC038,CC. Tara Singh,Cabin Crew,BLR,B777|ATR72|A321|A320|A350|B737,75,Available,False,86
+CC039,CC. Kabir Patel,Cabin Crew,DEL,A321|B737|A350|ATR72|A320,75,Available,True,80
+CC040,CC. Zara Nair,Cabin Crew,HYD,A320|ATR72|B737|A350,80,Available,False,24
+CC041,CC. Zara Gupta,Cabin Crew,CCU,B777|ATR72|B737|A320,85,Available,False,54
+CC042,CC. Sita Rao,Cabin Crew,BOM,A320|B777|ATR72|A321,85,Available,False,39
+CC043,CC. Atharv Malhotra,Cabin Crew,BOM,A350|A321|A320|B777|B737|ATR72,75,Available,True,53
+CC044,CC. Arjun Bhatt,Cabin Crew,MAA,B777|A350|ATR72|A321,75,Available,True,103
+CC045,CC. Rohan Sharma,Cabin Crew,MAA,A350|ATR72|A321|A320|B777,80,Available,True,71
+CC046,CC. Vihaan Joshi,Cabin Crew,DEL,A321|B737|ATR72|A320,75,Available,False,93
+CC047,CC. Kavya Jain,Cabin Crew,HYD,B777|ATR72|B737|A350|A320,85,Available,False,69
+CC048,CC. Riya Kumar,Cabin Crew,DEL,ATR72|A321|B777|A350|A320|B737,80,Available,True,70
+CC049,CC. Ganesh Iyer,Cabin Crew,BLR,A350|B777|ATR72|A320|A321,80,Available,False,87
+CC050,CC. Arjun Joshi,Cabin Crew,MAA,B777|A321|A350|ATR72,75,Available,False,106
+CC051,CC. Ganesh Dubey,Cabin Crew,HYD,A321|ATR72|B737|A320|A350|B777,85,Available,False,52
+CC052,CC. Zara Rao,Cabin Crew,BLR,B777|ATR72|B737|A320|A350|A321,85,Available,False,116
+CC053,CC. Vihaan Agarwal,Cabin Crew,DEL,B777|B737|A321|A350|ATR72|A320,85,Available,True,92
+CC054,CC. Ramesh Saxena,Cabin Crew,MAA,A321|A350|ATR72|B737|B777|A320,85,Available,True,92
+CC055,CC. Aisha Tiwari,Cabin Crew,DEL,B737|ATR72|A320|A321,75,Available,True,64
+CC056,CC. Vivaan Nair,Cabin Crew,DEL,A321|B777|B737|A320|ATR72,85,Available,True,97
+CC057,CC. Tara Khan,Cabin Crew,DEL,A320|A350|B777|A321,85,Available,True,19
+CC058,CC. Geeta Khan,Cabin Crew,BLR,ATR72|A350|A320|B777|B737,85,Available,False,10
+CC059,CC. Atharv Gupta,Cabin Crew,BOM,A320|A321|A350|ATR72|B737,85,On Leave,True,108
+CC060,CC. Rohan Patel,Cabin Crew,HYD,B737|A321|A320|ATR72|B777,80,Available,True,97
+CC061,CC. Arnav Shah,Cabin Crew,DEL,ATR72|B777|A350|A320|B737|A321,75,Available,True,68
+CC062,CC. Ira Chandra,Cabin Crew,MAA,B777|ATR72|B737|A320|A350|A321,75,Available,False,9
+CC063,CC. Zara Tiwari,Cabin Crew,BLR,B777|B737|A320|A321,85,Available,False,67
+CC064,CC. Vivaan Nair,Cabin Crew,BOM,A321|B737|B777|A320|A350|ATR72,80,Available,False,45
+CC065,CC. Aarav Jain,Cabin Crew,DEL,A320|B777|B737|A350|A321,80,Training,True,105
+CC066,CC. Mahesh Malhotra,Cabin Crew,DEL,A321|A320|A350|B737,75,Available,False,48
+CC067,CC. Priya Pandey,Cabin Crew,DEL,B737|A320|B777|A321|A350|ATR72,80,Available,True,16
+CC068,CC. Nita Saxena,Cabin Crew,MAA,A321|B737|B777|ATR72|A320,85,Available,True,6
+CC069,CC. Vivaan Malhotra,Cabin Crew,MAA,ATR72|B737|A321|A350|B777,75,Available,False,12
+CC070,CC. Aarush Saxena,Cabin Crew,MAA,A350|ATR72|B737|A320|B777,80,Available,False,83
+CC071,CC. Vihaan Kapoor,Cabin Crew,CCU,A321|A320|B737|ATR72|B777,80,Available,False,79
+CC072,CC. Tara Saxena,Cabin Crew,CCU,A320|A321|A350|B737|ATR72|B777,85,Available,True,82
+CC073,CC. Aisha Pandey,Cabin Crew,MAA,A321|A320|A350|B737,75,Available,True,25
+CC074,CC. Zara Bansal,Cabin Crew,BLR,A350|A320|B777|B737|ATR72|A321,85,Available,True,45
+CC075,CC. Sunita Agarwal,Cabin Crew,CCU,A320|B737|A321|ATR72,80,Available,True,81
+CC076,CC. Aarush Reddy,Cabin Crew,CCU,ATR72|A350|A320|A321,85,Available,False,10
+CC077,CC. Dinesh Nair,Cabin Crew,DEL,B737|ATR72|A321|A350|A320|B777,80,Available,True,16
+CC078,CC. Geeta Kapoor,Cabin Crew,CCU,B737|A320|ATR72|B777|A350,80,Available,True,118
+CC079,CC. Ishaan Sinha,Cabin Crew,BLR,A321|ATR72|A350|B777,85,Available,False,46
+CC080,CC. Anaya Sinha,Cabin Crew,MAA,B777|ATR72|A320|A350|B737,80,Available,True,97
+CC081,CC. Reyansh Menon,Cabin Crew,HYD,A320|B737|A350|A321,85,Available,False,103
+CC082,CC. Nisha Sinha,Cabin Crew,CCU,ATR72|A320|A321|B777|B737|A350,75,Available,True,80
+CC083,CC. Ishaan Agarwal,Cabin Crew,BOM,B737|B777|A350|A320|ATR72|A321,75,Available,False,15
+CC084,CC. Rajesh Kumar,Cabin Crew,BOM,B737|ATR72|A350|B777,85,Available,True,59
+CC085,CC. Sita Verma,Cabin Crew,MAA,B737|ATR72|A350|B777|A321,75,Available,False,77
+CC086,CC. Diya Chandra,Cabin Crew,HYD,A321|ATR72|B737|B777,80,Available,False,73
+CC087,CC. Diya Joshi,Cabin Crew,BOM,A320|ATR72|A321|A350|B777,85,Available,False,25
+CC088,CC. Umesh Menon,Cabin Crew,DEL,ATR72|B737|A350|B777|A321|A320,75,Available,True,88
+CC089,CC. Meera Agarwal,Cabin Crew,DEL,B737|B777|ATR72|A320,75,Available,True,104
+CC090,CC. Kira Jain,Cabin Crew,BLR,B777|A350|A320|ATR72,80,Available,True,42
+CC091,CC. Priya Sharma,Cabin Crew,HYD,A320|B777|ATR72|A321,80,Available,True,76
+CC092,CC. Ramesh Sharma,Cabin Crew,MAA,A350|B737|A321|A320|ATR72,85,Available,True,54
+CC093,CC. Suresh Khan,Cabin Crew,CCU,A350|ATR72|B777|B737|A320,75,Available,True,57
+CC094,CC. Diya Sinha,Cabin Crew,CCU,A350|B737|A321|A320,85,Available,True,74
+CC095,CC. Nisha Menon,Cabin Crew,BOM,A321|A320|ATR72|A350|B777,85,Available,True,110
+CC096,CC. Nita Choudhury,Cabin Crew,HYD,B737|ATR72|B777|A350|A321,85,Available,True,101
+CC097,CC. Umesh Tiwari,Cabin Crew,BOM,A350|A321|ATR72|B777,80,Available,True,72
+CC098,CC. Rajesh Chandra,Cabin Crew,CCU,A321|B737|ATR72|B777|A350,80,Available,False,57
+CC099,CC. Atharv Malhotra,Cabin Crew,MAA,A350|B737|ATR72|A320|A321,85,Available,True,73
+CC100,CC. Tara Khan,Cabin Crew,MAA,A321|B737|B777|ATR72,85,Available,True,84
+CC101,CC. Rita Nair,Cabin Crew,BOM,A320|A350|ATR72|B777,85,Available,True,13
+CC102,CC. Geeta Menon,Cabin Crew,DEL,B737|A320|A350|ATR72,85,Available,False,38
+CC103,CC. Kavya Menon,Cabin Crew,BOM,ATR72|B777|A320|A350|B737|A321,75,Available,False,8
+CC104,CC. Rita Iyer,Cabin Crew,HYD,B777|A350|A320|B737|ATR72,80,Available,False,14
+CC105,CC. Saanvi Singh,Cabin Crew,BLR,ATR72|A321|A350|B737,80,Available,False,33
+CC106,CC. Arjun Reddy,Cabin Crew,BOM,B737|ATR72|A320|A321,85,Available,True,93
+CC107,CC. Mahesh Shukla,Cabin Crew,MAA,B777|A350|A321|A320|B737,75,Available,False,27
+CC108,CC. Zara Shah,Cabin Crew,HYD,A320|A350|B777|ATR72|B737|A321,80,Available,True,86
+CC109,CC. Rajesh Sharma,Cabin Crew,MAA,B777|ATR72|A350|A321|A320,75,Available,False,61
+CC110,CC. Saanvi Patel,Cabin Crew,BLR,A320|B737|ATR72|A321|B777,85,Available,True,74
+CC111,CC. Tara Bansal,Cabin Crew,BLR,A321|B777|A350|A320|B737,85,Available,True,114
+CC112,CC. Diya Nair,Cabin Crew,BOM,A321|ATR72|A350|A320|B777|B737,80,Available,False,110
+CC113,CC. Ramesh Saxena,Cabin Crew,BOM,B777|B737|ATR72|A350,85,Available,True,107
+CC114,CC. Nisha Khan,Cabin Crew,HYD,A321|ATR72|A350|B777|B737,85,Available,False,55
+CC115,CC. Ganesh Sinha,Cabin Crew,BLR,B737|A321|A320|B777|ATR72,85,Available,False,74
+CC116,CC. Aarav Kumar,Cabin Crew,MAA,A350|ATR72|A320|B777|B737,80,Available,True,81
+CC117,CC. Anaya Kapoor,Cabin Crew,HYD,A350|B777|B737|ATR72|A321|A320,75,Available,True,36
+CC118,CC. Atharv Reddy,Cabin Crew,BOM,A321|ATR72|A320|B777|A350|B737,75,Available,True,83
+CC119,CC. Reyansh Patel,Cabin Crew,BLR,A350|A320|B737|B777,85,Available,False,120
+CC120,CC. Rohan Desai,Cabin Crew,BOM,A350|A320|B737|B777,75,Available,False,49
+CC121,CC. Kira Singh,Cabin Crew,CCU,B737|A320|A350|ATR72|A321,80,Available,False,84
+CC122,CC. Reyansh Dubey,Cabin Crew,MAA,A350|B777|ATR72|B737|A320,80,Available,False,25
+CC123,CC. Aisha Kapoor,Cabin Crew,DEL,A320|A350|A321|B777|B737,75,Training,False,11
+CC124,CC. Rohan Khan,Cabin Crew,HYD,A320|A321|B737|A350,80,Available,True,14
+CC125,CC. Umesh Saxena,Cabin Crew,BLR,B777|A350|A320|A321|ATR72|B737,85,Available,False,37
+CC126,CC. Mahesh Menon,Cabin Crew,DEL,B737|A321|B777|A320|ATR72|A350,85,Available,False,33
+CC127,CC. Tara Sharma,Cabin Crew,HYD,B737|A320|B777|A350,85,Available,False,95
+CC128,CC. Nisha Agarwal,Cabin Crew,CCU,A321|A350|B737|A320|ATR72|B777,80,Available,True,99
+CC129,CC. Kira Singh,Cabin Crew,DEL,ATR72|B737|A321|B777|A320|A350,80,Available,True,19
+CC130,CC. Aarav Verma,Cabin Crew,BLR,A350|ATR72|A321|A320|B737,85,Available,True,37
+CC131,CC. Geeta Shukla,Cabin Crew,MAA,A320|A321|B737|ATR72|B777|A350,80,Available,True,63
+CC132,CC. Dinesh Gupta,Cabin Crew,CCU,A320|B777|A321|B737|ATR72,85,Available,True,19
+CC133,CC. Suresh Rao,Cabin Crew,CCU,A320|B737|ATR72|A321|A350|B777,85,Available,False,28
+CC134,CC. Sita Patel,Cabin Crew,CCU,B737|B777|ATR72|A321|A350|A320,75,Available,True,8
+CC135,CC. Rajesh Bansal,Cabin Crew,DEL,A321|A350|ATR72|A320|B737,85,Available,True,72
+CC136,CC. Meera Dubey,Cabin Crew,BLR,ATR72|A350|A321|B777|B737|A320,85,Available,True,84
+CC137,CC. Zara Sinha,Cabin Crew,MAA,ATR72|A320|A350|B777|B737|A321,75,Available,True,76
+CC138,CC. Sunita Joshi,Cabin Crew,BLR,B737|A350|A321|ATR72,75,Available,True,42
+CC139,CC. Kira Chandra,Cabin Crew,BLR,ATR72|A320|B777|B737|A321|A350,75,Available,False,90
+CC140,CC. Mira Malhotra,Cabin Crew,CCU,B737|B777|ATR72|A321|A350,80,Available,False,62
+CC141,CC. Arjun Pandey,Cabin Crew,DEL,B737|ATR72|A320|A350,85,Available,False,99
+CC142,CC. Sita Khan,Cabin Crew,DEL,ATR72|A350|A321|A320|B777,85,Available,False,63
+CC143,CC. Tara Kapoor,Cabin Crew,HYD,A320|A321|B777|A350,85,Available,False,105
+CC144,CC. Nita Sharma,Cabin Crew,DEL,A350|B737|A321|B777,80,Available,False,40
+CC145,CC. Geeta Iyer,Cabin Crew,BLR,A320|ATR72|B777|A350,75,Available,True,33
+CC146,CC. Arnav Gupta,Cabin Crew,MAA,A320|ATR72|B777|A350,75,Available,False,93
+CC147,CC. Atharv Jain,Cabin Crew,CCU,A320|A350|B737|B777,80,Available,False,92
+CC148,CC. Ganesh Desai,Cabin Crew,MAA,B737|B777|A350|A321|A320|ATR72,85,Available,True,40
+CC149,CC. Kira Patel,Cabin Crew,BOM,ATR72|A320|B777|A350,75,Available,False,63
+CC150,CC. Saanvi Reddy,Cabin Crew,MAA,ATR72|A321|A350|B737|B777|A320,85,Available,False,100
+CC151,CC. Kavya Patel,Cabin Crew,BLR,B737|A350|ATR72|A320|A321|B777,85,Available,False,14
+CC152,CC. Ishaan Sharma,Cabin Crew,BLR,B737|A320|A321|A350|B777,75,Available,True,21
+CC153,CC. Suresh Kapoor,Cabin Crew,HYD,ATR72|A320|A321|A350,85,Available,True,6
+CC154,CC. Nita Chandra,Cabin Crew,CCU,ATR72|A350|B737|A321,80,Available,False,27
+CC155,CC. Nisha Kapoor,Cabin Crew,BLR,ATR72|A320|B777|A350|B737,85,Available,False,102
+CC156,CC. Aarush Kapoor,Cabin Crew,MAA,B777|A320|A321|B737|ATR72|A350,80,Available,False,75
+CC157,CC. Rita Menon,Cabin Crew,HYD,B777|B737|A320|A350,80,On Leave,False,82
+CC158,CC. Nisha Kumar,Cabin Crew,CCU,A350|A320|B777|ATR72|A321,80,Available,True,112
+CC159,CC. Vivaan Shukla,Cabin Crew,DEL,A321|B737|A350|A320|ATR72|B777,80,Available,True,67
+CC160,CC. Rajesh Khan,Cabin Crew,MAA,B777|ATR72|A321|A350,85,Available,False,37
+CC161,CC. Naresh Sinha,Cabin Crew,BOM,ATR72|A320|B737|B777|A321,80,Available,True,26
+CC162,CC. Rajesh Jain,Cabin Crew,MAA,B777|A320|ATR72|A350|B737|A321,85,Sick,False,65
+CC163,CC. Umesh Gupta,Cabin Crew,BLR,A321|A350|B737|A320|B777|ATR72,80,Available,True,7
+CC164,CC. Zara Pandey,Cabin Crew,BLR,B737|B777|ATR72|A321,75,Available,False,65
+CC165,CC. Zara Kumar,Cabin Crew,BOM,A320|B777|B737|A350|A321,80,Available,False,94
+CC166,CC. Arjun Gupta,Cabin Crew,CCU,B737|ATR72|A321|A350|B777,80,On Leave,True,84
+CC167,CC. Kiara Malhotra,Cabin Crew,CCU,A321|A320|A350|B737,75,Available,True,18
+CC168,CC. Kira Gupta,Cabin Crew,CCU,A321|ATR72|B737|A350|B777,75,Available,False,115
+CC169,CC. Tara Patel,Cabin Crew,MAA,B737|B777|A321|A320,80,Available,False,12
+CC170,CC. Sunita Bhatt,Cabin Crew,HYD,A350|B737|A320|B777|ATR72,85,Available,False,91
+CC171,CC. Ishaan Menon,Cabin Crew,CCU,A321|B777|A350|B737,80,Available,True,34
+CC172,CC. Tara Gupta,Cabin Crew,CCU,A320|ATR72|A350|A321|B737,75,Available,True,103
+CC173,CC. Arnav Kapoor,Cabin Crew,BLR,A320|ATR72|A321|B777|A350|B737,85,Available,False,106
+CC174,CC. Aisha Desai,Cabin Crew,MAA,A350|A321|ATR72|B777|A320,75,Available,False,85
+CC175,CC. Advait Tiwari,Cabin Crew,BLR,A321|A320|B737|A350|ATR72|B777,75,Sick,False,114
+CC176,CC. Nisha Nair,Cabin Crew,MAA,B737|A321|A320|ATR72|B777|A350,85,Sick,True,47
+CC177,CC. Vihaan Dubey,Cabin Crew,BOM,A320|B737|A350|A321,75,Available,True,64
+CC178,CC. Ganesh Dubey,Cabin Crew,CCU,B777|B737|ATR72|A350|A320|A321,80,Available,True,36
+CC179,CC. Ishaan Pandey,Cabin Crew,HYD,B737|ATR72|A320|B777|A321,80,Available,True,111
+CC180,CC. Zara Verma,Cabin Crew,HYD,B737|A321|A320|A350,85,Available,True,26
+CC181,CC. Aisha Joshi,Cabin Crew,MAA,A320|A321|ATR72|A350,85,Available,True,56
+CC182,CC. Rita Menon,Cabin Crew,CCU,A320|B737|A350|A321,80,Available,True,74
+CC183,CC. Rajesh Rao,Cabin Crew,DEL,A320|ATR72|B777|A350,75,Available,True,87
+CC184,CC. Anaya Shah,Cabin Crew,CCU,ATR72|A320|A321|B737|A350,80,Available,False,111
+CC185,CC. Ganesh Reddy,Cabin Crew,DEL,A320|A350|B737|B777,75,Available,True,119
+CC186,CC. Vivaan Verma,Cabin Crew,CCU,A350|B737|A320|ATR72|B777,75,Available,False,39
+CC187,CC. Meera Patel,Cabin Crew,HYD,B737|A320|ATR72|A350|B777,85,Available,False,29
+CC188,CC. Ganesh Choudhury,Cabin Crew,DEL,B737|A320|B777|ATR72,75,Available,False,102
+CC189,CC. Rajesh Jain,Cabin Crew,DEL,A321|B737|A350|ATR72,75,Available,True,117
+CC190,CC. Meera Joshi,Cabin Crew,CCU,B737|ATR72|B777|A321|A320|A350,80,Available,False,98
+CC191,CC. Kabir Bhatt,Cabin Crew,BLR,ATR72|A321|B737|B777|A320,75,Available,False,108
+CC192,CC. Arjun Jain,Cabin Crew,BOM,B737|B777|A320|ATR72,85,Available,False,43
+CC193,CC. Nita Bhatt,Cabin Crew,BOM,B777|A350|B737|ATR72,80,Available,True,99
+CC194,CC. Meera Shukla,Cabin Crew,BOM,A321|A320|B737|A350|ATR72,85,Training,True,68
+CC195,CC. Dinesh Mishra,Cabin Crew,BOM,A321|B777|A320|ATR72|A350,85,Available,False,81
+CC196,CC. Vivaan Iyer,Cabin Crew,CCU,A321|ATR72|A320|B777|A350,80,Available,True,116
+CC197,CC. Sunita Agarwal,Cabin Crew,BLR,A321|B737|A350|ATR72|B777|A320,85,Available,False,51
+CC198,CC. Aarav Sinha,Cabin Crew,BOM,A321|B777|A350|B737|A320,85,Sick,True,73
+CC199,CC. Kabir Mishra,Cabin Crew,CCU,ATR72|A320|B777|A321|A350,80,Available,True,62
+CC200,CC. Diya Kumar,Cabin Crew,HYD,B737|A350|B777|A321|A320,75,Available,True,89
+CC201,CC. Kira Shah,Cabin Crew,DEL,A350|B737|B777|A320|A321|ATR72,75,Available,True,112
+CC202,CC. Vihaan Patel,Cabin Crew,DEL,A321|B737|A320|B777,80,Available,True,44
+CC203,CC. Kavya Tiwari,Cabin Crew,HYD,A350|A320|ATR72|B737,85,Training,False,40
+CC204,CC. Geeta Menon,Cabin Crew,BLR,A321|B777|B737|A320,80,Available,False,82
+CC205,CC. Sunita Shukla,Cabin Crew,HYD,B777|ATR72|A321|A350|A320|B737,80,Available,False,62
+CC206,CC. Aarav Kapoor,Cabin Crew,DEL,A350|B777|ATR72|B737|A320|A321,80,Available,False,116
+CC207,CC. Advait Shukla,Cabin Crew,BLR,A350|ATR72|B737|A321,85,Available,False,12
+CC208,CC. Aarav Khan,Cabin Crew,MAA,A320|ATR72|A321|A350|B777,85,Sick,True,13
+CC209,CC. Geeta Kumar,Cabin Crew,HYD,B777|B737|A321|A350|A320|ATR72,80,Available,False,99
+CC210,CC. Arnav Shah,Cabin Crew,HYD,B737|A320|A350|ATR72|A321,80,Available,True,28
+CC211,CC. Atharv Desai,Cabin Crew,DEL,B777|B737|A350|A321,85,Available,False,75
+CC212,CC. Ira Sharma,Cabin Crew,BLR,A320|B777|A350|A321|ATR72|B737,80,Available,True,8
+CC213,CC. Ishaan Iyer,Cabin Crew,CCU,B777|B737|ATR72|A321,85,Available,False,112
+CC214,CC. Vivaan Iyer,Cabin Crew,DEL,B777|A350|A321|ATR72,75,Available,True,52
+CC215,CC. Ganesh Sharma,Cabin Crew,DEL,B737|ATR72|A350|A320|A321|B777,85,Available,False,67
+CC216,CC. Suresh Reddy,Cabin Crew,DEL,B777|B737|A350|A321|A320|ATR72,85,Available,False,83
+CC217,CC. Ganesh Pandey,Cabin Crew,HYD,ATR72|A321|B737|A350|A320,80,Available,True,82
+CC218,CC. Vivaan Gupta,Cabin Crew,DEL,A350|B777|B737|A320|ATR72|A321,80,Available,True,78
+CC219,CC. Zara Tiwari,Cabin Crew,CCU,ATR72|A350|A320|A321|B777|B737,80,Available,False,69
+CC220,CC. Anaya Tiwari,Cabin Crew,MAA,A350|B777|ATR72|A321|A320|B737,80,Available,False,106
+CC221,CC. Tara Chandra,Cabin Crew,MAA,A321|A320|A350|B737|ATR72,75,Available,True,25
+CC222,CC. Kavya Bhatt,Cabin Crew,BLR,A320|A321|B777|ATR72,80,Available,True,64
+CC223,CC. Kiara Choudhury,Cabin Crew,BLR,B737|A350|A321|A320|ATR72,80,Available,False,56
+CC224,CC. Umesh Sharma,Cabin Crew,HYD,ATR72|B777|A320|A321|A350,85,Sick,True,111
+CC225,CC. Tara Sinha,Cabin Crew,MAA,ATR72|B777|A321|A320,80,Available,True,58
+CC226,CC. Saanvi Joshi,Cabin Crew,MAA,A320|B777|B737|A350|ATR72|A321,85,Available,False,85
+CC227,CC. Meera Reddy,Cabin Crew,MAA,ATR72|A350|A321|B777|B737|A320,80,Available,True,118
+CC228,CC. Arjun Nair,Cabin Crew,BOM,ATR72|A350|B737|A320|B777,80,Available,True,116
+CC229,CC. Ramesh Desai,Cabin Crew,HYD,A321|ATR72|A350|A320|B777|B737,75,Available,False,83
+CC230,CC. Dinesh Nair,Cabin Crew,BOM,A350|B737|B777|ATR72|A321,85,Available,False,45
+CC231,CC. Nita Choudhury,Cabin Crew,DEL,B777|A320|A350|B737|A321|ATR72,80,Available,False,97
+CC232,CC. Geeta Chandra,Cabin Crew,BLR,A321|B777|ATR72|A320|B737,75,Available,True,89
+CC233,CC. Vihaan Rao,Cabin Crew,DEL,A320|A321|A350|B777|ATR72,75,Available,False,32
+CC234,CC. Nita Rao,Cabin Crew,MAA,B777|B737|A320|A321|A350,80,Available,False,45
+CC235,CC. Ishaan Chandra,Cabin Crew,BLR,A320|ATR72|B777|B737|A321|A350,85,Available,False,40
+CC236,CC. Mahesh Nair,Cabin Crew,BOM,A321|B777|B737|A320|ATR72,85,Available,False,95
+CC237,CC. Kavya Rao,Cabin Crew,BOM,B777|A320|A350|ATR72|A321|B737,75,Available,True,72
+CC238,CC. Ramesh Bansal,Cabin Crew,DEL,A321|ATR72|A350|B777,85,Available,False,24
+CC239,CC. Ira Singh,Cabin Crew,BLR,B737|ATR72|A321|A350|B777|A320,85,Available,True,75
+CC240,CC. Arjun Mishra,Cabin Crew,CCU,A321|A320|ATR72|A350,75,Available,True,98
+CC241,CC. Atharv Sinha,Cabin Crew,CCU,A321|A320|B777|A350,75,Available,True,60
+CC242,CC. Mahesh Reddy,Cabin Crew,BOM,A320|B737|A350|A321,75,Available,False,59
+CC243,CC. Aisha Desai,Cabin Crew,BOM,B737|A350|A320|ATR72|B777|A321,85,Available,True,86
+CC244,CC. Umesh Kumar,Cabin Crew,MAA,A350|ATR72|B777|A320|A321,80,Available,False,118
+CC245,CC. Priya Patel,Cabin Crew,HYD,ATR72|A350|A320|B737,80,Available,False,120
+CC246,CC. Riya Choudhury,Cabin Crew,BLR,B737|ATR72|B777|A350|A321|A320,80,Available,True,28
+CC247,CC. Nisha Choudhury,Cabin Crew,BOM,A321|A350|B737|ATR72,85,Available,True,52
+CC248,CC. Vihaan Khan,Cabin Crew,MAA,B737|ATR72|A320|A350|A321|B777,80,Available,False,67
+CC249,CC. Meera Nair,Cabin Crew,MAA,B777|A350|A320|A321|B737,75,Available,True,108
+CC250,CC. Sita Malhotra,Cabin Crew,BLR,ATR72|B737|A320|B777,85,Available,False,46
+CC251,CC. Rohan Sinha,Cabin Crew,BOM,B777|B737|A321|A320|A350|ATR72,75,Available,False,24
+CC252,CC. Rajesh Sinha,Cabin Crew,MAA,A321|A320|B777|ATR72,85,Available,True,26
+CC253,CC. Arnav Kumar,Cabin Crew,BLR,A320|A321|ATR72|A350|B737,80,Available,False,120
+CC254,CC. Ira Verma,Cabin Crew,BOM,ATR72|A320|A321|B737|A350,85,Available,False,87
+CC255,CC. Rita Reddy,Cabin Crew,MAA,A321|B777|A350|B737|A320|ATR72,75,Available,False,99
+CC256,CC. Tara Patel,Cabin Crew,BOM,A320|B737|ATR72|A321,80,Available,False,25
+CC257,CC. Ishaan Chandra,Cabin Crew,MAA,A320|B777|B737|ATR72,85,Available,False,41
+CC258,CC. Arnav Chandra,Cabin Crew,BOM,B777|A320|B737|A321,85,Available,True,54
+CC259,CC. Priya Mishra,Cabin Crew,DEL,ATR72|A321|B777|A350|B737|A320,75,Available,False,97
+CC260,CC. Anaya Singh,Cabin Crew,DEL,B737|A320|A321|ATR72|A350,75,Available,True,59
+CC261,CC. Nita Kapoor,Cabin Crew,MAA,ATR72|B777|A350|B737|A321|A320,80,Available,True,39
+CC262,CC. Nita Rao,Cabin Crew,MAA,ATR72|B737|A350|A320|B777|A321,80,On Leave,True,109
+CC263,CC. Anaya Reddy,Cabin Crew,BOM,ATR72|B737|B777|A350|A321,75,Available,True,61
+CC264,CC. Reyansh Kumar,Cabin Crew,HYD,A321|ATR72|A320|B737|A350|B777,80,Available,True,100
+CC265,CC. Naresh Mishra,Cabin Crew,BLR,B777|A350|A321|A320|B737|ATR72,75,Available,False,37
+CC266,CC. Advait Dubey,Cabin Crew,MAA,A321|ATR72|B737|A320|B777|A350,80,Available,True,67
+CC267,CC. Ganesh Shah,Cabin Crew,CCU,A320|ATR72|B737|A321|B777|A350,85,Available,False,96
+CC268,CC. Arnav Nair,Cabin Crew,BLR,B737|A321|B777|ATR72,85,Available,True,26
+CC269,CC. Rajesh Shukla,Cabin Crew,DEL,ATR72|B737|A350|B777|A321,75,Available,False,34
+CC270,CC. Aisha Rao,Cabin Crew,BLR,A321|B737|A350|B777|ATR72|A320,80,Available,False,103
+CC271,CC. Naresh Rao,Cabin Crew,BLR,ATR72|A321|B777|A350|A320|B737,80,Available,False,35
+CC272,CC. Rita Pandey,Cabin Crew,BOM,A350|ATR72|A321|A320,80,Available,True,115
+CC273,CC. Sita Singh,Cabin Crew,BOM,A321|B777|A350|A320|ATR72|B737,80,Available,False,100
+CC274,CC. Rohan Agarwal,Cabin Crew,DEL,B777|A321|A320|B737,75,Available,True,82
+CC275,CC. Ramesh Malhotra,Cabin Crew,DEL,A350|ATR72|B777|B737|A321,80,Available,False,114
+CC276,CC. Rajesh Saxena,Cabin Crew,DEL,B777|A350|ATR72|A320|B737|A321,75,Available,False,120
+CC277,CC. Ira Bansal,Cabin Crew,BOM,A321|B777|ATR72|A350|B737,75,Available,False,24
+CC278,CC. Nita Tiwari,Cabin Crew,MAA,A320|A321|B777|A350|B737,75,Available,True,52
+CC279,CC. Tara Bhatt,Cabin Crew,HYD,A350|A321|B777|B737|ATR72,80,Sick,True,15
+CC280,CC. Reyansh Tiwari,Cabin Crew,HYD,A321|A320|B777|B737,80,Available,True,46
+CC281,CC. Aarav Iyer,Cabin Crew,CCU,ATR72|B777|A321|A320|A350,80,Available,False,42
+CC282,CC. Zara Patel,Cabin Crew,CCU,B737|ATR72|B777|A350,85,Available,False,59
+CC283,CC. Kiara Sinha,Cabin Crew,HYD,ATR72|A350|A321|B777,85,Available,True,58
+CC284,CC. Nita Reddy,Cabin Crew,DEL,B777|A320|A321|B737,80,Available,True,11
+CC285,CC. Vihaan Pandey,Cabin Crew,BOM,B737|A321|A320|A350|B777|ATR72,75,Available,False,110
+CC286,CC. Nita Bansal,Cabin Crew,CCU,B737|A320|ATR72|A350|A321|B777,80,Available,True,113
+CC287,CC. Saanvi Saxena,Cabin Crew,BLR,B737|B777|A321|ATR72|A350,75,Available,True,35
+CC288,CC. Reyansh Chandra,Cabin Crew,CCU,B737|A321|B777|A350,80,Available,True,74
+CC289,CC. Riya Sinha,Cabin Crew,HYD,A350|A321|ATR72|B777|B737|A320,80,Available,False,47
+CC290,CC. Kabir Gupta,Cabin Crew,MAA,A320|ATR72|A321|A350,75,Available,True,97
+CC291,CC. Rajesh Mishra,Cabin Crew,BLR,B777|A321|A350|ATR72,80,Available,False,109
+CC292,CC. Ganesh Singh,Cabin Crew,BLR,B777|A320|ATR72|A350,85,Available,True,23
+CC293,CC. Meera Kumar,Cabin Crew,BOM,A350|A321|B737|A320,80,Available,True,89
+CC294,CC. Aisha Nair,Cabin Crew,HYD,B777|B737|A350|ATR72,85,Available,True,68
+CC295,CC. Dinesh Shukla,Cabin Crew,HYD,B777|A350|A320|B737|ATR72|A321,75,Available,True,41
+CC296,CC. Saanvi Agarwal,Cabin Crew,DEL,A350|ATR72|B737|A321|A320|B777,80,Available,False,29
+CC297,CC. Ramesh Bhatt,Cabin Crew,HYD,ATR72|A350|A320|A321,85,Available,False,52
+CC298,CC. Meera Desai,Cabin Crew,BOM,B737|B777|ATR72|A321|A320|A350,75,Available,True,96
+CC299,CC. Vivaan Tiwari,Cabin Crew,HYD,ATR72|A320|A321|A350|B737,75,Available,False,65
+CC300,CC. Kavya Kapoor,Cabin Crew,MAA,B737|A320|A321|ATR72,80,Available,False,79
+CC301,CC. Kabir Menon,Cabin Crew,BLR,A320|B777|A350|B737|A321|ATR72,75,Available,False,12
+CC302,CC. Naresh Malhotra,Cabin Crew,BLR,A350|A320|B777|A321|ATR72,75,Available,False,30
+CC303,CC. Kavya Kumar,Cabin Crew,CCU,B777|B737|ATR72|A320|A350|A321,75,Available,False,89
+CC304,CC. Advait Joshi,Cabin Crew,DEL,A321|ATR72|B777|A320,85,Available,False,60
+CC305,CC. Priya Saxena,Cabin Crew,CCU,A320|B737|B777|A321|A350,75,Available,False,116
+CC306,CC. Naresh Bhatt,Cabin Crew,BLR,A321|A350|A320|ATR72|B737|B777,80,Training,False,108
+CC307,CC. Umesh Joshi,Cabin Crew,HYD,B737|A321|A320|ATR72|A350|B777,80,Available,True,110
+CC308,CC. Rajesh Kumar,Cabin Crew,HYD,A350|A321|ATR72|B737|B777,80,Available,True,117
+CC309,CC. Nisha Kumar,Cabin Crew,HYD,A320|B777|A350|A321,80,Available,True,30
+CC310,CC. Advait Rao,Cabin Crew,CCU,A321|A320|A350|B737|B777|ATR72,75,Available,True,22
+CC311,CC. Sita Desai,Cabin Crew,BLR,A321|A350|ATR72|B737|A320,75,Available,True,62
+CC312,CC. Vihaan Verma,Cabin Crew,BOM,ATR72|A350|B777|A321|B737|A320,75,Sick,False,7
+CC313,CC. Vihaan Pandey,Cabin Crew,HYD,ATR72|A350|A320|B737,80,Available,True,85
+CC314,CC. Kira Bansal,Cabin Crew,DEL,B777|A321|A320|A350,80,Available,True,43
+CC315,CC. Kiara Sinha,Cabin Crew,BOM,A321|B737|A350|A320|ATR72,80,Available,False,11
+CC316,CC. Diya Patel,Cabin Crew,HYD,A321|ATR72|A350|B737|B777|A320,80,Available,True,50
+CC317,CC. Arjun Verma,Cabin Crew,HYD,ATR72|A320|B777|A321,85,Training,False,90
+CC318,CC. Rajesh Desai,Cabin Crew,HYD,A320|B737|A321|ATR72|B777,85,Training,True,92
+CC319,CC. Aarush Rao,Cabin Crew,BOM,A350|B737|ATR72|A320|A321,75,Available,True,47
+CC320,CC. Kiara Mishra,Cabin Crew,MAA,ATR72|B777|B737|A350|A320,75,Available,False,107
+CC321,CC. Dinesh Verma,Cabin Crew,MAA,ATR72|B777|A320|B737|A321,75,Available,True,39
+CC322,CC. Atharv Singh,Cabin Crew,CCU,A320|A321|A350|B777|ATR72|B737,80,Available,False,22
+CC323,CC. Rohan Choudhury,Cabin Crew,DEL,A320|A350|B777|A321|B737|ATR72,75,Available,True,73
+CC324,CC. Nisha Pandey,Cabin Crew,MAA,B777|A350|B737|A321|ATR72,80,Available,True,102
+CC325,CC. Ishaan Reddy,Cabin Crew,BLR,B777|A320|ATR72|B737|A321|A350,80,Available,False,8
+CC326,CC. Dinesh Singh,Cabin Crew,MAA,ATR72|A321|B737|B777,80,Available,False,71
+CC327,CC. Riya Reddy,Cabin Crew,MAA,B777|A320|A350|ATR72,85,Available,False,104
+CC328,CC. Nita Pandey,Cabin Crew,CCU,A320|A321|B737|A350|ATR72|B777,85,Available,True,60
+CC329,CC. Rohan Gupta,Cabin Crew,HYD,B737|A350|A320|B777|ATR72,75,Available,True,62
+CC330,CC. Diya Tiwari,Cabin Crew,HYD,A350|A320|ATR72|A321|B777|B737,75,Available,True,79
+CC331,CC. Mira Malhotra,Cabin Crew,MAA,A320|A350|ATR72|A321|B777|B737,80,Available,False,102
+CC332,CC. Dinesh Khan,Cabin Crew,HYD,A321|A350|B777|A320,80,Available,False,107
+CC333,CC. Geeta Kapoor,Cabin Crew,HYD,A350|A321|B777|B737,75,Available,False,56
+CC334,CC. Umesh Iyer,Cabin Crew,DEL,ATR72|B737|A320|A350,75,Available,True,85
+CC335,CC. Ira Jain,Cabin Crew,BOM,A321|ATR72|B777|B737,85,Available,False,9
+CC336,CC. Zara Sinha,Cabin Crew,HYD,A350|A320|ATR72|B737,80,Available,True,70
+CC337,CC. Nita Bansal,Cabin Crew,BOM,A350|B737|A321|B777|A320,80,Available,True,63
+CC338,CC. Naresh Verma,Cabin Crew,BLR,A320|A321|B777|ATR72|B737,75,Available,False,103
+CC339,CC. Naresh Agarwal,Cabin Crew,DEL,B777|A321|B737|A320|A350|ATR72,80,Available,False,98
+CC340,CC. Suresh Verma,Cabin Crew,BOM,ATR72|B737|B777|A350|A321,85,Available,True,50
+CC341,CC. Geeta Tiwari,Cabin Crew,BLR,A320|B737|B777|A350|A321,85,Training,False,81
+CC342,CC. Dinesh Agarwal,Cabin Crew,MAA,B737|ATR72|A320|A321,85,Available,False,78
+CC343,CC. Rajesh Verma,Cabin Crew,CCU,B777|A350|A321|ATR72|B737,80,Available,True,63
+CC344,CC. Mahesh Rao,Cabin Crew,BOM,ATR72|A321|B737|B777|A320,80,Available,False,7
+CC345,CC. Aarush Mishra,Cabin Crew,HYD,B737|A321|A350|A320|B777|ATR72,85,Available,False,18
+CC346,CC. Tara Iyer,Cabin Crew,MAA,A321|B737|B777|ATR72,80,Available,False,89
+CC347,CC. Geeta Iyer,Cabin Crew,HYD,B777|ATR72|B737|A350|A321|A320,85,Available,False,67
+CC348,CC. Nita Menon,Cabin Crew,DEL,A320|ATR72|A350|B777,85,Available,True,68
+CC349,CC. Meera Mishra,Cabin Crew,MAA,ATR72|B737|A350|A320|A321,80,Available,False,80
+CC350,CC. Aarush Sharma,Cabin Crew,BOM,A320|B777|A321|B737|ATR72|A350,80,Available,True,91
+CC351,CC. Rohan Jain,Cabin Crew,BLR,A321|A320|B737|A350,80,Available,True,96
+CC352,CC. Diya Agarwal,Cabin Crew,HYD,A321|B777|A320|A350,85,Available,True,119
+CC353,CC. Anaya Dubey,Cabin Crew,CCU,A350|A320|A321|B777,80,Available,True,16
+CC354,CC. Arnav Kapoor,Cabin Crew,MAA,B737|ATR72|A350|A320|B777,85,Available,False,70
+CC355,CC. Ishaan Choudhury,Cabin Crew,BOM,ATR72|A321|B777|B737,75,Available,False,46
+CC356,CC. Kavya Shah,Cabin Crew,CCU,ATR72|B737|A350|B777|A321|A320,75,Available,False,11
+CC357,CC. Ganesh Khan,Cabin Crew,MAA,A321|A320|ATR72|B777|A350,85,Available,False,85
+CC358,CC. Dinesh Verma,Cabin Crew,DEL,A350|A321|A320|ATR72|B737,85,Available,False,64
+CC359,CC. Dinesh Dubey,Cabin Crew,DEL,B737|A320|ATR72|A350|A321,75,Available,False,79
+CC360,CC. Naresh Tiwari,Cabin Crew,MAA,ATR72|A350|B777|A321|B737,85,Available,True,82
+CC361,CC. Meera Sinha,Cabin Crew,MAA,ATR72|A350|B777|A320|A321|B737,75,Available,False,36
+CC362,CC. Ira Rao,Cabin Crew,BLR,B777|A320|ATR72|A321|A350|B737,85,Available,False,54
+CC363,CC. Zara Saxena,Cabin Crew,HYD,B737|A320|ATR72|A321,85,Available,True,110
+CC364,CC. Kavya Rao,Cabin Crew,HYD,B777|A350|A320|A321|ATR72|B737,75,Available,True,93
+CC365,CC. Naresh Gupta,Cabin Crew,HYD,B737|ATR72|A320|A350,85,Available,False,8
+CC366,CC. Dinesh Pandey,Cabin Crew,HYD,B777|ATR72|A321|A350|B737|A320,85,Available,True,83
+CC367,CC. Geeta Bhatt,Cabin Crew,BOM,A321|A350|B777|A320|B737,75,Available,True,114
+CC368,CC. Umesh Agarwal,Cabin Crew,CCU,A350|ATR72|A320|B737,75,Available,False,96
+CC369,CC. Meera Desai,Cabin Crew,HYD,B737|B777|A350|ATR72|A321|A320,75,Available,True,79
+CC370,CC. Vihaan Choudhury,Cabin Crew,MAA,B737|B777|ATR72|A321|A320,80,Available,False,97
+CC371,CC. Mahesh Chandra,Cabin Crew,DEL,A321|A350|A320|B777,80,Available,True,28
+CC372,CC. Kavya Shah,Cabin Crew,BOM,ATR72|B777|A320|A350|B737|A321,80,Available,True,11
+CC373,CC. Zara Bansal,Cabin Crew,DEL,A321|B737|A320|B777|A350|ATR72,75,Available,True,114
+CC374,CC. Naresh Rao,Cabin Crew,BLR,B777|A350|ATR72|A320|B737|A321,85,Available,True,71
+CC375,CC. Advait Iyer,Cabin Crew,BOM,A321|B777|B737|ATR72|A320,75,Available,True,33
+CC376,CC. Dinesh Gupta,Cabin Crew,HYD,B737|ATR72|B777|A350|A321,85,Available,False,86
+CC377,CC. Umesh Dubey,Cabin Crew,CCU,B737|A350|B777|A321|A320,75,Available,True,26
+CC378,CC. Arnav Menon,Cabin Crew,DEL,B777|A320|A350|B737|ATR72|A321,75,Available,True,79
+CC379,CC. Umesh Choudhury,Cabin Crew,DEL,B777|A350|ATR72|A320|A321,75,Available,True,69
+CC380,CC. Ramesh Tiwari,Cabin Crew,BOM,B737|A350|ATR72|B777|A321|A320,75,Available,False,111
+CC381,CC. Aarav Sinha,Cabin Crew,BLR,A321|A350|B777|ATR72,80,Available,True,12
+CC382,CC. Kiara Joshi,Cabin Crew,BOM,B737|A350|B777|A320|A321|ATR72,85,Available,True,94
+CC383,CC. Ira Khan,Cabin Crew,CCU,A350|B777|B737|A320,80,Available,False,37
+CC384,CC. Zara Jain,Cabin Crew,HYD,A350|ATR72|A320|B777|B737,80,Available,True,98
+CC385,CC. Ira Shah,Cabin Crew,MAA,A320|ATR72|A350|B777|A321,75,Available,False,99
+CC386,CC. Umesh Choudhury,Cabin Crew,HYD,A320|ATR72|B737|B777|A350|A321,85,Available,True,78
+CC387,CC. Zara Agarwal,Cabin Crew,CCU,A350|A321|B737|B777|ATR72,85,Available,True,43
+CC388,CC. Naresh Bhatt,Cabin Crew,CCU,ATR72|A320|B737|B777|A321|A350,85,Available,False,80
+CC389,CC. Anaya Joshi,Cabin Crew,BOM,B737|A321|ATR72|A350,80,Available,True,65
+CC390,CC. Suresh Dubey,Cabin Crew,CCU,ATR72|A350|B737|A321|A320|B777,80,Available,True,22
+CC391,CC. Nita Joshi,Cabin Crew,HYD,A321|A320|A350|B777|B737|ATR72,80,Available,True,23
+CC392,CC. Riya Pandey,Cabin Crew,DEL,A350|ATR72|B737|A321|A320|B777,80,Training,True,19
+CC393,CC. Tara Rao,Cabin Crew,CCU,B777|ATR72|A321|A320|B737|A350,80,Available,True,74
+CC394,CC. Ishaan Sinha,Cabin Crew,BLR,B777|A321|A320|B737|ATR72,75,Available,False,36
+CC395,CC. Ira Chandra,Cabin Crew,BLR,A350|A320|ATR72|A321,80,Available,False,111
+CC396,CC. Meera Rao,Cabin Crew,BOM,B777|B737|A320|ATR72|A350,75,Available,False,48
+CC397,CC. Naresh Verma,Cabin Crew,HYD,A350|A321|B737|B777|A320,75,Available,False,61
+CC398,CC. Rohan Gupta,Cabin Crew,MAA,A350|B737|A320|B777,80,Available,False,75
+CC399,CC. Tara Malhotra,Cabin Crew,DEL,B777|B737|A350|A320,75,Available,True,80
+CC400,CC. Ramesh Chandra,Cabin Crew,BLR,B777|A321|ATR72|A350,85,Available,True,8
+CC401,CC. Kavya Bhatt,Cabin Crew,BOM,B777|A350|B737|A320|ATR72,75,Available,False,56
+CC402,CC. Meera Reddy,Cabin Crew,CCU,A320|B737|B777|A350|A321,80,Available,False,115
+CC403,CC. Arnav Sinha,Cabin Crew,BLR,ATR72|B777|B737|A320,85,Available,False,30
+CC404,CC. Nisha Menon,Cabin Crew,BOM,A350|B737|A321|B777|A320,80,Available,False,47
+CC405,CC. Atharv Agarwal,Cabin Crew,BLR,ATR72|A321|B777|A320,85,Available,True,101
+CC406,CC. Geeta Singh,Cabin Crew,MAA,ATR72|B777|A320|A321,75,Available,True,35
+CC407,CC. Ishaan Sinha,Cabin Crew,DEL,B777|A350|ATR72|B737|A320,75,Available,True,18
+CC408,CC. Meera Malhotra,Cabin Crew,MAA,B737|A321|A320|B777|A350|ATR72,85,Available,True,18
+CC409,CC. Ramesh Menon,Cabin Crew,CCU,A350|A321|ATR72|B777,80,Available,False,81
+CC410,CC. Umesh Dubey,Cabin Crew,CCU,A320|B777|ATR72|A350|A321,75,Available,False,66
+CC411,CC. Ira Desai,Cabin Crew,CCU,ATR72|B737|A350|A320|A321,80,Available,True,104
+CC412,CC. Anaya Joshi,Cabin Crew,MAA,A321|ATR72|B737|A350,85,Available,True,27
+CC413,CC. Kabir Pandey,Cabin Crew,DEL,B737|A320|B777|A350|A321|ATR72,80,Available,False,76
+CC414,CC. Tara Gupta,Cabin Crew,HYD,ATR72|B777|B737|A321|A350|A320,75,Available,True,96
+CC415,CC. Diya Agarwal,Cabin Crew,HYD,ATR72|A350|A321|A320|B737,85,Available,False,22
+CC416,CC. Kiara Nair,Cabin Crew,CCU,A320|B737|ATR72|B777|A350|A321,85,Available,False,116
+CC417,CC. Kira Bansal,Cabin Crew,BLR,A320|ATR72|B777|A350|A321,75,Available,True,111
+CC418,CC. Umesh Malhotra,Cabin Crew,MAA,A321|B737|B777|ATR72,80,Available,False,51
+CC419,CC. Suresh Reddy,Cabin Crew,MAA,A350|B737|A320|B777|ATR72,80,Available,True,58
+CC420,CC. Vihaan Pandey,Cabin Crew,MAA,A321|B777|B737|A320|A350,80,Available,True,8
+CC421,CC. Dinesh Sinha,Cabin Crew,DEL,A321|B777|A350|ATR72|A320,85,Available,False,103
+CC422,CC. Ramesh Jain,Cabin Crew,CCU,ATR72|A321|B737|A320|B777,75,Available,True,101
+CC423,CC. Reyansh Nair,Cabin Crew,CCU,B737|A321|ATR72|B777|A320,85,On Leave,True,95
+CC424,CC. Umesh Reddy,Cabin Crew,MAA,B737|ATR72|A321|A350,85,Available,True,22
+CC425,CC. Mahesh Kumar,Cabin Crew,HYD,B737|ATR72|A350|B777|A320,85,Available,True,92
+CC426,CC. Tara Mishra,Cabin Crew,HYD,A350|B777|A320|A321|ATR72,75,Available,False,61
+CC427,CC. Dinesh Malhotra,Cabin Crew,DEL,A320|ATR72|A321|A350,75,Sick,True,104
+CC428,CC. Saanvi Iyer,Cabin Crew,MAA,ATR72|A320|A321|B777|B737|A350,75,Available,False,15
+CC429,CC. Arjun Menon,Cabin Crew,CCU,B777|ATR72|A320|A350|A321|B737,75,Available,False,113
+CC430,CC. Kavya Chandra,Cabin Crew,BLR,A320|ATR72|A350|A321|B737|B777,85,On Leave,False,28
+CC431,CC. Ramesh Tiwari,Cabin Crew,BOM,A321|ATR72|A320|A350|B737,75,Available,True,20
+CC432,CC. Nita Chandra,Cabin Crew,BLR,B737|ATR72|B777|A321|A320|A350,85,Available,True,77
+CC433,CC. Aarush Bhatt,Cabin Crew,MAA,A320|A350|B737|A321|B777,80,Available,True,105
+CC434,CC. Atharv Shah,Cabin Crew,BOM,B737|A320|A321|B777|A350|ATR72,85,Available,False,90
+CC435,CC. Meera Shukla,Cabin Crew,BLR,B737|B777|A320|A321,85,Available,True,9
+CC436,CC. Rita Shah,Cabin Crew,DEL,B737|A320|B777|A350|ATR72|A321,85,Available,True,52
+CC437,CC. Aisha Agarwal,Cabin Crew,MAA,ATR72|B737|A350|A320,85,Available,True,8
+CC438,CC. Rita Sharma,Cabin Crew,DEL,ATR72|A350|A321|B737|B777|A320,85,Sick,True,16
+CC439,CC. Riya Reddy,Cabin Crew,DEL,B777|B737|A321|ATR72|A320|A350,75,Available,True,113
+CC440,CC. Vihaan Rao,Cabin Crew,BOM,A321|A350|B777|B737|ATR72|A320,85,Available,True,67
+CC441,CC. Saanvi Rao,Cabin Crew,DEL,B737|ATR72|B777|A320|A321|A350,75,Available,True,30
+CC442,CC. Nita Iyer,Cabin Crew,CCU,B737|A320|ATR72|A350,75,Training,False,104
+CC443,CC. Sunita Saxena,Cabin Crew,MAA,B737|ATR72|A320|B777|A321|A350,80,Available,False,95
+CC444,CC. Kiara Chandra,Cabin Crew,CCU,A350|B737|ATR72|A320|B777,75,Available,True,48
+CC445,CC. Dinesh Bhatt,Cabin Crew,DEL,B777|ATR72|B737|A321,85,Available,False,29
+CC446,CC. Advait Kumar,Cabin Crew,CCU,A321|A320|ATR72|B737,75,Training,False,46
+CC447,CC. Atharv Jain,Cabin Crew,MAA,A321|B737|A350|ATR72|A320|B777,75,Available,False,33
+CC448,CC. Atharv Gupta,Cabin Crew,CCU,A320|B737|B777|A321|A350|ATR72,75,Sick,False,96
+CC449,CC. Aarush Bhatt,Cabin Crew,CCU,A321|A350|B737|B777|ATR72|A320,80,Available,True,55
+CC450,CC. Meera Joshi,Cabin Crew,MAA,B777|A320|ATR72|A350|A321|B737,75,Available,True,116
+CC451,CC. Ramesh Tiwari,Cabin Crew,HYD,A320|A350|B737|B777,75,Available,False,18
+CC452,CC. Nisha Reddy,Cabin Crew,HYD,A321|A320|B737|A350|B777,75,Available,True,117
+CC453,CC. Arnav Gupta,Cabin Crew,CCU,B737|A321|B777|A320|A350|ATR72,85,Available,True,56
+CC454,CC. Mahesh Dubey,Cabin Crew,BOM,ATR72|A320|A350|B737|A321|B777,75,Available,True,24
+CC455,CC. Priya Shah,Cabin Crew,MAA,A350|B737|A320|ATR72|B777,75,Available,True,69
+CC456,CC. Ganesh Saxena,Cabin Crew,DEL,ATR72|B737|B777|A320|A321|A350,85,Available,False,92
+CC457,CC. Umesh Nair,Cabin Crew,CCU,A321|A320|ATR72|B737|A350|B777,85,Available,True,27
+CC458,CC. Sunita Sharma,Cabin Crew,CCU,A320|B737|A350|ATR72|B777|A321,75,Available,False,120
+CC459,CC. Vivaan Jain,Cabin Crew,MAA,A350|B737|B777|A321,85,Available,False,105
+CC460,CC. Vihaan Chandra,Cabin Crew,DEL,ATR72|A321|B737|A350,85,Available,False,58
+CC461,CC. Rita Sharma,Cabin Crew,CCU,A350|A320|A321|B737,85,Available,False,64
+CC462,CC. Ramesh Khan,Cabin Crew,CCU,B737|A321|B777|A350|ATR72|A320,75,Available,True,99
+CC463,CC. Anaya Rao,Cabin Crew,BLR,ATR72|B737|A350|B777,85,Available,True,84
+CC464,CC. Priya Iyer,Cabin Crew,HYD,B737|ATR72|A350|A320|A321,85,Available,False,37
+CC465,CC. Kabir Pandey,Cabin Crew,BOM,A350|B737|A320|A321|B777|ATR72,75,Available,False,17
+CC466,CC. Sunita Bansal,Cabin Crew,HYD,A350|A321|B777|ATR72,80,Available,False,46
+CC467,CC. Ramesh Malhotra,Cabin Crew,MAA,ATR72|B777|A350|B737,75,Available,True,24
+CC468,CC. Aisha Menon,Cabin Crew,DEL,ATR72|B777|A321|A320|B737|A350,85,Available,False,72
+CC469,CC. Kira Choudhury,Cabin Crew,CCU,B737|A321|A320|B777,80,Available,True,115
+CC470,CC. Dinesh Bhatt,Cabin Crew,DEL,B737|A320|A350|ATR72|A321|B777,80,Available,True,66
+CC471,CC. Kira Jain,Cabin Crew,BOM,ATR72|B737|A320|A350|A321,80,Available,True,31
+CC472,CC. Ganesh Joshi,Cabin Crew,BOM,B777|B737|A350|ATR72,80,Sick,True,64
+CC473,CC. Nisha Jain,Cabin Crew,HYD,A350|B777|ATR72|B737|A321,75,Available,False,94
+CC474,CC. Nisha Khan,Cabin Crew,DEL,A350|A320|A321|ATR72|B737|B777,75,Available,False,19
+CC475,CC. Suresh Singh,Cabin Crew,DEL,A320|ATR72|B777|A350,75,Available,True,78
+CC476,CC. Suresh Malhotra,Cabin Crew,BLR,ATR72|A321|A350|B737,75,Available,True,65
+CC477,CC. Tara Dubey,Cabin Crew,BOM,A321|A320|B737|A350|B777|ATR72,85,Available,True,83
+CC478,CC. Tara Agarwal,Cabin Crew,MAA,B777|ATR72|A321|A320|A350,80,Available,False,25
+CC479,CC. Meera Jain,Cabin Crew,DEL,B737|A320|A321|ATR72,80,Available,True,49
+CC480,CC. Kira Gupta,Cabin Crew,DEL,A321|A350|B737|A320,85,Available,True,60
+CC481,CC. Nisha Shukla,Cabin Crew,BOM,B777|B737|ATR72|A350|A321|A320,80,Available,False,80
+CC482,CC. Ganesh Reddy,Cabin Crew,DEL,ATR72|B737|A350|A321|A320,75,Available,True,86
+CC483,CC. Arjun Menon,Cabin Crew,BLR,ATR72|B737|A350|B777|A320,80,Available,True,36
+CC484,CC. Saanvi Bhatt,Cabin Crew,MAA,B737|B777|A320|A350,85,Available,False,116
+CC485,CC. Anaya Sharma,Cabin Crew,CCU,A350|ATR72|A321|B777,80,Available,True,68
+CC486,CC. Advait Reddy,Cabin Crew,HYD,A321|B777|A350|B737|A320|ATR72,75,Available,True,29
+CC487,CC. Ganesh Dubey,Cabin Crew,BOM,ATR72|A321|A320|A350|B737|B777,75,Available,True,21
+CC488,CC. Ishaan Kumar,Cabin Crew,BLR,A321|ATR72|A350|B777|B737|A320,75,Available,False,86
+CC489,CC. Aarav Gupta,Cabin Crew,MAA,B737|A350|B777|A321|A320,85,Available,False,95
+CC490,CC. Priya Sinha,Cabin Crew,BLR,B777|ATR72|A350|A320,75,Available,False,79
+CC491,CC. Ramesh Saxena,Cabin Crew,BOM,B777|A320|A321|A350,85,Available,True,101
+CC492,CC. Geeta Shah,Cabin Crew,HYD,A350|ATR72|B737|B777|A320,75,Available,True,70
+CC493,CC. Diya Singh,Cabin Crew,HYD,A350|B777|A320|B737|A321|ATR72,80,Available,False,42
+CC494,CC. Mahesh Iyer,Cabin Crew,CCU,A320|ATR72|A321|A350|B777|B737,85,Available,False,18
+CC495,CC. Dinesh Saxena,Cabin Crew,CCU,A350|A321|B737|ATR72|B777,75,Available,True,6
+CC496,CC. Arjun Gupta,Cabin Crew,CCU,A321|B737|A350|ATR72|A320|B777,80,Available,False,95
+CC497,CC. Mira Bhatt,Cabin Crew,HYD,A320|ATR72|B737|A321,75,Available,True,55
+CC498,CC. Priya Bansal,Cabin Crew,DEL,A350|A321|B777|A320,75,Available,True,120
+CC499,CC. Nisha Kumar,Cabin Crew,BLR,A321|A320|B777|B737|ATR72|A350,80,Available,False,20
+CC500,CC. Mahesh Sinha,Cabin Crew,DEL,B777|A320|B737|A350|A321|ATR72,80,Available,False,103
+CC501,CC. Vihaan Shukla,Cabin Crew,BOM,B777|B737|ATR72|A321,75,Available,False,67
+CC502,CC. Ramesh Tiwari,Cabin Crew,DEL,A350|A320|A321|ATR72,75,Available,True,71
+CC503,CC. Tara Kumar,Cabin Crew,BLR,A321|B737|A320|B777,85,Available,True,76
+CC504,CC. Tara Mishra,Cabin Crew,DEL,A321|A320|A350|B777,80,Available,False,82
+CC505,CC. Nita Tiwari,Cabin Crew,MAA,B777|A320|ATR72|A350|B737,75,Available,True,107
+CC506,CC. Zara Rao,Cabin Crew,BLR,A320|A350|B777|ATR72|A321|B737,80,Available,True,68
+CC507,CC. Nita Bansal,Cabin Crew,BLR,ATR72|A321|B737|B777|A320|A350,75,Available,True,117
+CC508,CC. Nisha Singh,Cabin Crew,BOM,A350|B777|B737|A321|A320,85,Available,False,17
+CC509,CC. Zara Nair,Cabin Crew,BLR,A350|B777|B737|ATR72,75,Available,False,120
+CC510,CC. Kiara Menon,Cabin Crew,HYD,A321|A350|B777|A320|B737,75,Available,True,74
+CC511,CC. Nita Kapoor,Cabin Crew,DEL,A320|B777|A321|ATR72|A350|B737,85,Available,True,45
+CC512,CC. Dinesh Shah,Cabin Crew,CCU,ATR72|A320|A350|B777,85,Available,False,110
+CC513,CC. Aisha Patel,Cabin Crew,BLR,A350|B777|B737|A321,75,Available,False,34
+CC514,CC. Mira Desai,Cabin Crew,DEL,A320|A321|A350|ATR72,85,Available,False,102
+CC515,CC. Mahesh Chandra,Cabin Crew,MAA,A350|ATR72|B737|B777|A320,75,Sick,True,107
+CC516,CC. Kabir Rao,Cabin Crew,MAA,A350|B777|A321|A320,85,Available,True,71
+CC517,CC. Dinesh Khan,Cabin Crew,DEL,A320|A350|B777|ATR72|B737|A321,85,Available,True,79
+CC518,CC. Nisha Chandra,Cabin Crew,BLR,B777|B737|ATR72|A321|A320|A350,75,Available,True,110
+CC519,CC. Mahesh Choudhury,Cabin Crew,BLR,A320|B737|B777|ATR72|A321|A350,80,Available,True,96
+CC520,CC. Ramesh Dubey,Cabin Crew,DEL,A320|B777|A321|ATR72|A350,75,Available,False,92
+CC521,CC. Tara Malhotra,Cabin Crew,HYD,A350|ATR72|A321|B777,75,Available,False,64
+CC522,CC. Mahesh Sinha,Cabin Crew,HYD,A350|ATR72|B737|A321,85,Available,False,70
+CC523,CC. Rita Patel,Cabin Crew,DEL,B777|A350|A320|ATR72|B737|A321,75,Available,False,59
+CC524,CC. Vivaan Nair,Cabin Crew,CCU,A350|B737|A320|ATR72|B777|A321,75,Available,False,19
+CC525,CC. Sita Verma,Cabin Crew,HYD,B737|A320|ATR72|A321|B777,75,Available,False,55
+CC526,CC. Ramesh Saxena,Cabin Crew,MAA,A320|A350|B777|B737,80,Available,False,82
+CC527,CC. Saanvi Malhotra,Cabin Crew,DEL,B737|A321|A350|ATR72|A320|B777,85,Available,False,19
+CC528,CC. Aisha Jain,Cabin Crew,CCU,ATR72|A350|A320|B737|A321|B777,75,Available,True,99
+CC529,CC. Diya Choudhury,Cabin Crew,BLR,B777|ATR72|A321|A350,85,Available,False,107
+CC530,CC. Aarav Choudhury,Cabin Crew,CCU,A350|B777|A321|ATR72|B737,85,Available,False,117
+CC531,CC. Meera Nair,Cabin Crew,DEL,B737|A321|B777|A320|ATR72|A350,85,Available,False,55
+CC532,CC. Suresh Joshi,Cabin Crew,CCU,ATR72|B777|B737|A320|A321|A350,85,Available,False,62
+CC533,CC. Kiara Reddy,Cabin Crew,BOM,ATR72|A350|B777|A321|A320|B737,80,On Leave,False,118
+CC534,CC. Suresh Mishra,Cabin Crew,MAA,B737|ATR72|A321|A350,75,Available,True,34
+CC535,CC. Ishaan Menon,Cabin Crew,DEL,A321|A320|A350|B737|B777|ATR72,85,Available,False,81
+CC536,CC. Nita Malhotra,Cabin Crew,DEL,A320|A321|A350|B777|ATR72,85,Available,False,116
+CC537,CC. Tara Singh,Cabin Crew,BLR,A320|B737|A350|ATR72|B777,80,Available,True,112
+CC538,CC. Ramesh Menon,Cabin Crew,DEL,A321|A350|B777|ATR72,85,Available,False,54
+CC539,CC. Dinesh Patel,Cabin Crew,HYD,A350|B777|A321|ATR72|A320|B737,85,Available,True,68
+CC540,CC. Aarav Jain,Cabin Crew,MAA,B737|B777|A321|A350|ATR72|A320,85,Available,True,45
+CC541,CC. Sunita Jain,Cabin Crew,DEL,A350|A321|B777|A320,85,Available,False,42
+CC542,CC. Reyansh Menon,Cabin Crew,BLR,B777|A320|ATR72|A350|A321,75,Available,True,111
+CC543,CC. Advait Rao,Cabin Crew,BLR,B737|A320|ATR72|A350|B777,85,Available,True,111
+CC544,CC. Rajesh Kapoor,Cabin Crew,MAA,A350|B777|ATR72|A320,80,Available,False,63
+CC545,CC. Nita Kumar,Cabin Crew,BLR,A350|ATR72|B737|A321|B777,75,Available,False,45
+CC546,CC. Saanvi Sharma,Cabin Crew,BOM,B737|A321|B777|A320,85,Available,True,98
+CC547,CC. Mira Shah,Cabin Crew,CCU,ATR72|A320|B777|B737|A350|A321,85,Available,False,16
+CC548,CC. Geeta Jain,Cabin Crew,HYD,B737|A321|A320|B777|ATR72,80,Available,False,110
+CC549,CC. Arjun Iyer,Cabin Crew,BOM,ATR72|B737|A350|B777,80,Available,True,17
+CC550,CC. Diya Gupta,Cabin Crew,MAA,A350|B777|A320|A321|B737,75,Sick,False,32
+CC551,CC. Sunita Bansal,Cabin Crew,BOM,A321|B737|A350|ATR72,80,Sick,False,57
+CC552,CC. Mira Menon,Cabin Crew,MAA,ATR72|A321|A320|B777|A350,85,Available,False,53
+CC553,CC. Kiara Iyer,Cabin Crew,BLR,B777|A321|A320|A350|ATR72|B737,75,Available,True,6
+CC554,CC. Kabir Sinha,Cabin Crew,BLR,A320|B777|B737|A350|A321,85,Available,True,68
+CC555,CC. Kavya Desai,Cabin Crew,HYD,A350|A321|ATR72|B777|A320,80,Sick,True,106
+CC556,CC. Aisha Agarwal,Cabin Crew,BLR,A320|B777|B737|ATR72|A350|A321,75,Available,False,17
+CC557,CC. Suresh Joshi,Cabin Crew,CCU,B737|A320|ATR72|A321|B777|A350,75,Available,False,99
+CC558,CC. Vihaan Sinha,Cabin Crew,HYD,A320|A321|B777|ATR72,75,On Leave,False,68
+CC559,CC. Tara Desai,Cabin Crew,HYD,A320|A350|A321|B737,75,Available,False,81
+CC560,CC. Rajesh Choudhury,Cabin Crew,HYD,A350|ATR72|B777|A320|B737,85,Available,True,26
+CC561,CC. Dinesh Shukla,Cabin Crew,MAA,ATR72|B737|A321|A320|B777|A350,85,Available,False,96
+CC562,CC. Rajesh Sharma,Cabin Crew,DEL,A350|B737|A321|B777,85,Available,False,25
+CC563,CC. Ira Mishra,Cabin Crew,CCU,B777|A320|A321|A350|ATR72|B737,75,Available,True,57
+CC564,CC. Arjun Khan,Cabin Crew,BOM,B737|B777|A320|A321|A350|ATR72,80,Available,True,45
+CC565,CC. Tara Verma,Cabin Crew,BOM,ATR72|B737|A350|B777|A320,85,Available,True,111
+CC566,CC. Rajesh Reddy,Cabin Crew,DEL,A350|ATR72|B777|A321|A320,85,Available,False,111
+CC567,CC. Ira Reddy,Cabin Crew,CCU,A350|ATR72|B737|B777|A320,75,Available,False,32
+CC568,CC. Vihaan Pandey,Cabin Crew,CCU,B737|ATR72|A321|A350,85,Available,False,119
+CC569,CC. Mahesh Khan,Cabin Crew,BLR,B737|A350|A320|B777|A321,80,Available,False,41
+CC570,CC. Mira Bansal,Cabin Crew,BOM,A320|B737|ATR72|A321|A350|B777,75,Available,True,100
+CC571,CC. Aisha Reddy,Cabin Crew,BLR,A350|A321|A320|B777|B737,75,Available,True,33
+CC572,CC. Ganesh Iyer,Cabin Crew,MAA,ATR72|B777|A350|A320,80,Available,True,46
+CC573,CC. Atharv Kumar,Cabin Crew,BOM,ATR72|A321|A320|A350|B777,75,Available,False,108
+CC574,CC. Mira Iyer,Cabin Crew,CCU,A321|B777|A350|B737|ATR72,80,Available,True,56
+CC575,CC. Anaya Shukla,Cabin Crew,BOM,A321|ATR72|A350|B737|B777,75,Available,True,25
+CC576,CC. Zara Shukla,Cabin Crew,DEL,B737|A320|A321|A350,75,Available,False,83
+CC577,CC. Kabir Joshi,Cabin Crew,BLR,A320|B777|A321|ATR72|B737,85,Available,True,8
+CC578,CC. Mira Sharma,Cabin Crew,BLR,A321|A350|B777|ATR72|A320|B737,85,Available,False,97
+CC579,CC. Kabir Shukla,Cabin Crew,MAA,A320|A350|B737|A321|B777,80,Sick,False,18
+CC580,CC. Diya Joshi,Cabin Crew,MAA,ATR72|B737|A321|B777|A350|A320,75,Available,True,53
+CC581,CC. Arjun Desai,Cabin Crew,BOM,A320|ATR72|A321|A350|B777,80,Available,True,90
+CC582,CC. Priya Choudhury,Cabin Crew,HYD,A350|A320|B777|ATR72,75,Available,True,92
+CC583,CC. Rita Kapoor,Cabin Crew,DEL,ATR72|A321|B737|A350|B777|A320,85,Available,False,18
+CC584,CC. Aarav Bhatt,Cabin Crew,HYD,ATR72|A350|B737|A321,85,Available,False,40
+CC585,CC. Saanvi Sinha,Cabin Crew,CCU,A320|ATR72|A321|A350|B737|B777,75,Available,False,30
+CC586,CC. Mahesh Shukla,Cabin Crew,BLR,B737|ATR72|A350|A320|B777,85,Available,True,69
+CC587,CC. Arnav Mishra,Cabin Crew,MAA,A350|ATR72|A320|A321|B777|B737,75,Available,True,15
+CC588,CC. Aarav Patel,Cabin Crew,MAA,ATR72|A320|A350|B737|B777,75,Training,False,94
+CC589,CC. Rohan Joshi,Cabin Crew,HYD,A350|B777|A320|B737|ATR72,80,Available,False,42
+CC590,CC. Priya Kumar,Cabin Crew,DEL,A321|A350|B777|ATR72|A320,85,Available,True,33
+CC591,CC. Arjun Kumar,Cabin Crew,CCU,ATR72|A321|A350|B737,75,Available,False,24
+CC592,CC. Atharv Reddy,Cabin Crew,MAA,A321|B737|A320|A350|ATR72,75,Available,True,118
+CC593,CC. Tara Agarwal,Cabin Crew,MAA,A350|A320|A321|B777|B737|ATR72,80,Available,True,31
+CC594,CC. Arnav Sinha,Cabin Crew,MAA,ATR72|A350|A321|B777|A320,85,Available,False,28
+CC595,CC. Rohan Bansal,Cabin Crew,MAA,ATR72|A350|B737|A320|A321,80,Available,False,97
+CC596,CC. Riya Desai,Cabin Crew,DEL,A321|A350|B777|A320|B737,80,Available,True,43
+CC597,CC. Aarush Chandra,Cabin Crew,BLR,B777|A350|ATR72|A320,85,Available,False,79
+CC598,CC. Riya Joshi,Cabin Crew,DEL,A321|ATR72|B777|A350|B737|A320,85,Available,False,21
+CC599,CC. Anaya Singh,Cabin Crew,DEL,ATR72|A321|B737|A320|A350|B777,85,Available,False,37
+CC600,CC. Reyansh Mishra,Cabin Crew,MAA,A350|B777|B737|A320,75,Available,False,11
+CC601,CC. Diya Mishra,Cabin Crew,HYD,A350|A321|ATR72|A320,75,Available,False,100
+CC602,CC. Tara Iyer,Cabin Crew,HYD,B777|A350|ATR72|B737|A321|A320,75,Available,False,47
+CC603,CC. Rohan Patel,Cabin Crew,DEL,ATR72|A321|B737|A350|A320|B777,80,Available,False,88
+CC604,CC. Ganesh Mishra,Cabin Crew,DEL,B737|ATR72|A321|A350,80,Available,False,46
+CC605,CC. Naresh Pandey,Cabin Crew,CCU,A320|ATR72|A321|B777|B737|A350,75,Available,False,12
+CC606,CC. Aisha Bhatt,Cabin Crew,CCU,ATR72|B777|B737|A320,80,Available,True,65
+CC607,CC. Kabir Sinha,Cabin Crew,DEL,ATR72|B737|A321|A320|B777|A350,80,Available,True,83
+CC608,CC. Aarav Shukla,Cabin Crew,MAA,A320|ATR72|A321|B777,85,Available,False,102
+CC609,CC. Mira Menon,Cabin Crew,HYD,A350|A320|A321|B777|B737,85,Available,True,28
+CC610,CC. Tara Gupta,Cabin Crew,MAA,ATR72|A320|A350|B737,75,Available,False,73
+CC611,CC. Aarav Shah,Cabin Crew,BLR,B737|ATR72|B777|A321|A350,85,Available,False,114
+CC612,CC. Arnav Nair,Cabin Crew,CCU,B737|A320|ATR72|A321|A350,75,Available,False,50
+CC613,CC. Advait Verma,Cabin Crew,MAA,B737|A321|A350|A320|ATR72|B777,85,Available,True,84
+CC614,CC. Aarush Saxena,Cabin Crew,BLR,ATR72|A321|A320|A350,85,Available,True,104
+CC615,CC. Vivaan Desai,Cabin Crew,BLR,B777|A350|A321|A320,75,Available,False,107
+CC616,CC. Meera Menon,Cabin Crew,HYD,A350|A320|A321|B737|B777|ATR72,75,Available,True,26
+CC617,CC. Vihaan Sinha,Cabin Crew,HYD,A350|A320|B777|ATR72|A321|B737,80,Available,False,26
+CC618,CC. Arnav Nair,Cabin Crew,DEL,A320|A321|B737|A350|ATR72,75,Available,True,86
+CC619,CC. Advait Pandey,Cabin Crew,BLR,A320|ATR72|B737|B777,75,Available,False,80
+CC620,CC. Tara Dubey,Cabin Crew,CCU,B777|A321|A320|A350|B737|ATR72,80,Available,True,111
+CC621,CC. Anaya Pandey,Cabin Crew,DEL,A320|ATR72|B737|A350,80,Available,False,60
+CC622,CC. Kiara Sinha,Cabin Crew,MAA,A350|A321|B777|ATR72,80,Available,False,26
+CC623,CC. Kabir Singh,Cabin Crew,HYD,ATR72|B737|A320|A350,80,Available,False,12
+CC624,CC. Kira Malhotra,Cabin Crew,DEL,B777|ATR72|B737|A350,75,Available,True,52
+CC625,CC. Ishaan Reddy,Cabin Crew,CCU,A321|ATR72|A350|B737|A320,80,Available,False,88
+CC626,CC. Kiara Joshi,Cabin Crew,DEL,B777|A350|B737|ATR72|A321|A320,85,Available,True,101
+CC627,CC. Kabir Sharma,Cabin Crew,CCU,A350|B777|ATR72|A321,85,Available,True,48
+CC628,CC. Naresh Jain,Cabin Crew,BOM,A321|ATR72|B737|B777,75,Available,True,23
+CC629,CC. Vihaan Menon,Cabin Crew,HYD,B737|A350|ATR72|B777|A321,85,Available,True,26
+CC630,CC. Kira Singh,Cabin Crew,CCU,A320|B777|A321|B737|A350|ATR72,85,Available,False,60
+CC631,CC. Kabir Singh,Cabin Crew,MAA,B737|A350|ATR72|A320|A321|B777,75,Available,False,117
+CC632,CC. Arnav Sharma,Cabin Crew,MAA,A320|A321|B737|B777|ATR72,80,Available,True,56
+CC633,CC. Aarav Gupta,Cabin Crew,MAA,ATR72|B737|B777|A321|A350|A320,80,Available,False,110
+CC634,CC. Mahesh Shukla,Cabin Crew,CCU,A350|A321|B777|A320|ATR72|B737,80,Available,True,113
+CC635,CC. Saanvi Chandra,Cabin Crew,CCU,A320|ATR72|A350|B777|B737|A321,75,Available,False,21
+CC636,CC. Meera Patel,Cabin Crew,HYD,ATR72|A350|B737|A320|A321|B777,75,Available,False,92
+CC637,CC. Naresh Sinha,Cabin Crew,HYD,A321|B777|A320|A350|ATR72,85,Available,True,64
+CC638,CC. Rita Mishra,Cabin Crew,HYD,A350|A321|A320|B737,75,Available,False,13
+CC639,CC. Aisha Iyer,Cabin Crew,BLR,B777|ATR72|B737|A350|A320,85,Available,False,34
+CC640,CC. Tara Desai,Cabin Crew,DEL,ATR72|A350|A321|B777|B737,85,Available,False,71
+CC641,CC. Priya Joshi,Cabin Crew,BLR,ATR72|B777|A350|A320,85,Training,True,77
+CC642,CC. Kiara Gupta,Cabin Crew,BLR,A321|B737|B777|ATR72,80,Available,True,105
+CC643,CC. Mahesh Nair,Cabin Crew,MAA,A321|B777|ATR72|A350,85,Available,True,14
+CC644,CC. Riya Chandra,Cabin Crew,BOM,B777|A321|A320|B737|A350|ATR72,85,Available,True,63
+CC645,CC. Geeta Bansal,Cabin Crew,HYD,A350|A320|B737|ATR72|B777,80,Available,False,7
+CC646,CC. Rita Gupta,Cabin Crew,CCU,ATR72|A320|A350|B777|A321|B737,85,Available,False,41
+CC647,CC. Priya Nair,Cabin Crew,HYD,A321|B737|A320|ATR72|B777|A350,80,Sick,False,18
+CC648,CC. Anaya Dubey,Cabin Crew,MAA,ATR72|A350|A320|B737|A321|B777,80,Available,False,109
+CC649,CC. Sunita Verma,Cabin Crew,BOM,ATR72|B777|B737|A320,85,Available,True,71
+CC650,CC. Kabir Khan,Cabin Crew,MAA,B777|ATR72|A320|B737|A321,75,Available,False,103
+CC651,CC. Kavya Patel,Cabin Crew,MAA,B777|A320|A321|B737|A350|ATR72,80,Available,False,35
+CC652,CC. Mahesh Shah,Cabin Crew,MAA,B777|A321|ATR72|B737|A350,85,Available,True,79
+CC653,CC. Meera Bhatt,Cabin Crew,BOM,A320|B777|B737|A321|ATR72,80,Available,True,98
+CC654,CC. Mira Dubey,Cabin Crew,BLR,B777|ATR72|A321|A350,75,Available,False,53
+CC655,CC. Priya Khan,Cabin Crew,DEL,B737|ATR72|A321|A320|B777,75,Available,True,43
+CC656,CC. Kabir Menon,Cabin Crew,MAA,A320|A350|B777|ATR72|A321,75,Available,True,85
+CC657,CC. Meera Desai,Cabin Crew,MAA,B777|A320|ATR72|A350|A321|B737,80,Available,False,93
+CC658,CC. Mira Reddy,Cabin Crew,DEL,A320|ATR72|B737|B777|A321,75,Available,False,12
+CC659,CC. Tara Pandey,Cabin Crew,MAA,A321|ATR72|A320|B777,80,Training,True,41
+CC660,CC. Ira Shukla,Cabin Crew,HYD,A320|B777|A350|ATR72,75,Available,False,71
+CC661,CC. Sunita Sharma,Cabin Crew,CCU,A320|ATR72|A350|A321|B737|B777,75,Available,True,41
+CC662,CC. Vivaan Rao,Cabin Crew,MAA,A320|B737|A350|ATR72,85,Available,False,32
+CC663,CC. Umesh Gupta,Cabin Crew,BLR,A321|A320|A350|ATR72|B777,75,Available,False,118
+CC664,CC. Arjun Joshi,Cabin Crew,DEL,ATR72|A321|B737|A320|A350,80,Available,True,98
+CC665,CC. Sunita Sinha,Cabin Crew,BOM,ATR72|B777|A320|B737,75,Available,True,36
+CC666,CC. Meera Shah,Cabin Crew,BLR,A350|B737|ATR72|B777|A320,75,Available,True,69
+CC667,CC. Suresh Shukla,Cabin Crew,BOM,A321|B737|B777|ATR72,75,Available,True,97
+CC668,CC. Zara Sharma,Cabin Crew,HYD,ATR72|A320|B737|A321|B777,75,Available,True,99
+CC669,CC. Naresh Saxena,Cabin Crew,BOM,A320|B737|A321|ATR72|A350,75,Available,False,22
+CC670,CC. Reyansh Saxena,Cabin Crew,DEL,B777|ATR72|A321|A350|B737|A320,85,Available,True,27
+CC671,CC. Arnav Shah,Cabin Crew,BLR,A321|B737|ATR72|A320,75,Available,True,37
+CC672,CC. Mira Tiwari,Cabin Crew,BOM,B777|B737|ATR72|A321,75,Available,False,25
+CC673,CC. Priya Iyer,Cabin Crew,DEL,A321|A320|A350|ATR72|B777,75,Available,True,114
+CC674,CC. Atharv Shah,Cabin Crew,MAA,A321|ATR72|B777|A320|B737|A350,80,Available,True,47
+CC675,CC. Zara Kapoor,Cabin Crew,MAA,ATR72|B777|A321|A320|B737,80,Available,True,94
+CC676,CC. Arnav Reddy,Cabin Crew,BOM,A320|A350|B777|ATR72|B737|A321,75,Available,False,78
+CC677,CC. Kiara Shukla,Cabin Crew,CCU,A320|ATR72|B777|A350|A321|B737,75,Available,False,53
+CC678,CC. Anaya Patel,Cabin Crew,BOM,B777|B737|A321|ATR72|A320,75,Available,True,93
+CC679,CC. Mahesh Kapoor,Cabin Crew,DEL,ATR72|A321|A320|B737|B777|A350,80,Available,True,35
+CC680,CC. Riya Agarwal,Cabin Crew,MAA,A350|A321|ATR72|B737|A320,75,Available,True,82
+CC681,CC. Atharv Pandey,Cabin Crew,DEL,A350|B777|A320|ATR72|A321,75,Available,False,35
+CC682,CC. Riya Malhotra,Cabin Crew,HYD,ATR72|A350|B777|A321|A320,85,Available,True,106
+CC683,CC. Meera Bhatt,Cabin Crew,BOM,B777|A321|A320|B737|ATR72,75,Available,True,66
+CC684,CC. Umesh Jain,Cabin Crew,CCU,B777|B737|A321|A350,85,Available,False,41
+CC685,CC. Umesh Menon,Cabin Crew,BLR,ATR72|B777|A321|B737,85,Available,False,40
+CC686,CC. Rita Desai,Cabin Crew,DEL,ATR72|B737|A320|A321|A350,80,Available,False,33
+CC687,CC. Ishaan Reddy,Cabin Crew,BLR,A350|ATR72|B737|A321|B777,80,Available,False,119
+CC688,CC. Dinesh Jain,Cabin Crew,CCU,A320|A321|B737|B777|ATR72,75,Available,False,74
+CC689,CC. Umesh Nair,Cabin Crew,DEL,B777|ATR72|A350|A321|B737|A320,75,Available,True,105
+CC690,CC. Rita Chandra,Cabin Crew,MAA,B737|ATR72|B777|A350,80,Available,True,17
+CC691,CC. Diya Mishra,Cabin Crew,DEL,B737|B777|A320|A350|A321|ATR72,75,Available,False,78
+CC692,CC. Priya Khan,Cabin Crew,HYD,ATR72|B737|A320|A350|A321|B777,85,Available,True,53
+CC693,CC. Diya Khan,Cabin Crew,CCU,B737|A321|B777|A350|ATR72,75,Available,True,6
+CC694,CC. Aarush Dubey,Cabin Crew,HYD,A350|A320|ATR72|B737|A321,75,Available,True,60
+CC695,CC. Sita Patel,Cabin Crew,MAA,A320|B737|A321|B777,85,Available,False,114
+CC696,CC. Aarush Shah,Cabin Crew,DEL,B737|A320|A350|A321,75,Available,True,11
+CC697,CC. Saanvi Saxena,Cabin Crew,DEL,B777|A320|B737|ATR72|A321|A350,80,Available,False,102
+CC698,CC. Advait Chandra,Cabin Crew,BOM,ATR72|B777|A320|A350|A321|B737,75,Available,False,90
+CC699,CC. Aarush Dubey,Cabin Crew,MAA,B737|ATR72|A320|A350|B777|A321,75,Available,True,16
+CC700,CC. Nisha Nair,Cabin Crew,HYD,A320|A321|B777|ATR72|A350|B737,80,Available,True,82
+CC701,CC. Aisha Singh,Cabin Crew,BLR,A350|A320|B777|A321|ATR72|B737,75,Available,False,34
+CC702,CC. Rohan Kapoor,Cabin Crew,DEL,A321|A350|B737|A320,85,Available,True,48
+CC703,CC. Diya Khan,Cabin Crew,DEL,A321|B737|A350|ATR72|A320|B777,75,Available,True,65
+CC704,CC. Rita Kapoor,Cabin Crew,CCU,ATR72|A320|A321|B737,80,Available,False,62
+CC705,CC. Ira Menon,Cabin Crew,HYD,A321|A350|B737|A320|B777,85,Available,False,35
+CC706,CC. Ira Jain,Cabin Crew,CCU,ATR72|A321|B777|A350,85,Available,False,40
+CC707,CC. Tara Kumar,Cabin Crew,DEL,B737|ATR72|A321|A350|B777|A320,85,Available,True,59
+CC708,CC. Kira Desai,Cabin Crew,MAA,A350|ATR72|A321|B737|B777,80,Available,False,96
+CC709,CC. Advait Saxena,Cabin Crew,HYD,B777|ATR72|A321|B737|A350|A320,75,Available,False,103
+CC710,CC. Aarav Pandey,Cabin Crew,DEL,B737|A321|ATR72|A350|A320,85,Available,False,12
+CC711,CC. Rohan Sinha,Cabin Crew,CCU,ATR72|A320|B777|B737|A350|A321,75,Available,False,76
+CC712,CC. Umesh Desai,Cabin Crew,CCU,A350|ATR72|A320|B777,75,Available,False,43
+CC713,CC. Kavya Kapoor,Cabin Crew,BOM,ATR72|A320|B737|B777|A350|A321,75,Available,True,97
+CC714,CC. Saanvi Desai,Cabin Crew,DEL,B737|A321|A320|B777|A350|ATR72,80,Available,False,39
+CC715,CC. Vivaan Rao,Cabin Crew,BOM,A350|B737|B777|ATR72|A321,80,Available,False,106
+CC716,CC. Naresh Sinha,Cabin Crew,DEL,ATR72|B777|A320|A321|A350|B737,75,Available,False,107
+CC717,CC. Aisha Dubey,Cabin Crew,BOM,B777|ATR72|A350|B737|A320,85,Available,True,12
+CC718,CC. Kira Patel,Cabin Crew,HYD,A320|ATR72|A321|B777|B737,75,Available,True,94
+CC719,CC. Advait Joshi,Cabin Crew,MAA,A350|A320|ATR72|A321|B737|B777,75,Available,False,111
+CC720,CC. Dinesh Bhatt,Cabin Crew,HYD,A350|B737|B777|A321,80,On Leave,True,115
+CC721,CC. Geeta Desai,Cabin Crew,MAA,A320|B777|A321|A350|ATR72,75,Available,True,52
+CC722,CC. Reyansh Saxena,Cabin Crew,HYD,B777|B737|A350|A321|A320,80,Available,True,65
+CC723,CC. Kiara Patel,Cabin Crew,HYD,ATR72|A320|A321|B777|A350|B737,75,Available,True,87
+CC724,CC. Nisha Sinha,Cabin Crew,BLR,A350|A320|A321|B777,85,Available,True,48
+CC725,CC. Priya Gupta,Cabin Crew,BOM,B737|ATR72|A320|A321,85,Available,True,28
+CC726,CC. Priya Pandey,Cabin Crew,CCU,B737|ATR72|A350|A320|A321,75,Available,False,22
+CC727,CC. Riya Shah,Cabin Crew,MAA,B777|A320|A321|B737|ATR72,80,On Leave,False,48
+CC728,CC. Rohan Bhatt,Cabin Crew,DEL,ATR72|B777|B737|A350|A321,80,Available,False,30
+CC729,CC. Ishaan Singh,Cabin Crew,BLR,A320|B737|A321|A350,85,Available,False,27
+CC730,CC. Nisha Sinha,Cabin Crew,BLR,A320|A350|A321|ATR72,75,Available,True,82
+CC731,CC. Nisha Mishra,Cabin Crew,HYD,ATR72|B777|A320|B737,75,Available,True,41
+CC732,CC. Ramesh Bhatt,Cabin Crew,BLR,A320|ATR72|A321|B737|A350,80,Available,True,47
+CC733,CC. Meera Choudhury,Cabin Crew,HYD,A321|B777|A350|A320,80,Available,False,15
+CC734,CC. Kabir Singh,Cabin Crew,BOM,B737|A350|A321|ATR72|A320|B777,75,Available,False,69
+CC735,CC. Naresh Mishra,Cabin Crew,BLR,A320|B777|A350|B737|ATR72,80,Sick,False,15
+CC736,CC. Atharv Pandey,Cabin Crew,MAA,B777|A321|ATR72|B737|A350,75,Available,True,84
+CC737,CC. Kavya Choudhury,Cabin Crew,MAA,A320|B777|B737|ATR72|A321|A350,75,Available,True,66
+CC738,CC. Tara Singh,Cabin Crew,BLR,A350|ATR72|B777|A320|B737,75,Available,True,61
+CC739,CC. Kavya Kumar,Cabin Crew,DEL,A350|B737|B777|A321|ATR72|A320,75,Available,True,13
+CC740,CC. Riya Saxena,Cabin Crew,BOM,A321|B737|ATR72|B777,75,Available,True,42
+CC741,CC. Mira Saxena,Cabin Crew,DEL,A320|A321|A350|B777|ATR72,85,Available,True,32
+CC742,CC. Ishaan Sinha,Cabin Crew,CCU,A350|B737|A320|ATR72|B777,75,Available,True,117
+CC743,CC. Atharv Khan,Cabin Crew,BLR,A321|ATR72|B777|B737|A350|A320,80,Available,True,10
+CC744,CC. Zara Sharma,Cabin Crew,BOM,A350|B777|B737|A321|ATR72|A320,80,Available,False,99
+CC745,CC. Aisha Shah,Cabin Crew,HYD,A320|B777|A321|ATR72,80,Available,False,16
+CC746,CC. Ganesh Shukla,Cabin Crew,BLR,A350|ATR72|A320|B777|B737|A321,75,Available,True,87
+CC747,CC. Zara Bansal,Cabin Crew,HYD,A320|A350|B777|B737|A321,85,Available,True,56
+CC748,CC. Kabir Menon,Cabin Crew,BLR,B777|A350|A321|ATR72|A320|B737,80,Available,True,79
+CC749,CC. Meera Tiwari,Cabin Crew,BOM,ATR72|B777|A321|A320,85,Available,False,33
+CC750,CC. Arnav Sinha,Cabin Crew,BLR,A320|B737|B777|ATR72,75,Available,False,106
+CC751,CC. Arjun Saxena,Cabin Crew,BOM,B737|A320|ATR72|A350|A321|B777,80,Available,False,6
+CC752,CC. Kira Mishra,Cabin Crew,CCU,B777|B737|A350|ATR72|A321,80,Available,False,71
+CC753,CC. Aisha Bhatt,Cabin Crew,DEL,B737|ATR72|A350|A320|A321|B777,75,Available,False,26
+CC754,CC. Arjun Saxena,Cabin Crew,DEL,B777|B737|A320|A350,80,Available,True,79
+CC755,CC. Rohan Desai,Cabin Crew,CCU,B737|ATR72|A321|B777|A350|A320,80,Available,True,8
+CC756,CC. Kabir Nair,Cabin Crew,CCU,A320|A321|B737|A350|ATR72,85,Available,True,35
+CC757,CC. Vihaan Gupta,Cabin Crew,DEL,A350|B777|A320|ATR72,85,Available,False,61
+CC758,CC. Ira Jain,Cabin Crew,BLR,ATR72|B737|B777|A320|A350,85,Available,True,40
+CC759,CC. Aarush Jain,Cabin Crew,BLR,B777|A321|A350|ATR72,75,Available,False,13
+CC760,CC. Aarav Sinha,Cabin Crew,DEL,A350|B737|A321|ATR72,80,Sick,True,7
+CC761,CC. Dinesh Kapoor,Cabin Crew,BOM,ATR72|A350|B777|B737|A320,75,Available,False,111
+CC762,CC. Saanvi Sharma,Cabin Crew,DEL,A321|B737|A350|B777,75,Available,False,89
+CC763,CC. Kabir Rao,Cabin Crew,DEL,B737|A320|B777|A321,75,Available,True,100
+CC764,CC. Sita Menon,Cabin Crew,HYD,A321|ATR72|A350|A320|B737,75,Available,True,65
+CC765,CC. Geeta Chandra,Cabin Crew,BLR,A320|A350|ATR72|A321|B737,75,Available,True,79
+CC766,CC. Ishaan Joshi,Cabin Crew,MAA,A321|A320|B777|ATR72|A350|B737,80,Available,True,59
+CC767,CC. Rajesh Chandra,Cabin Crew,CCU,A350|B737|B777|ATR72|A320,75,Available,True,97
+CC768,CC. Mira Shah,Cabin Crew,BOM,A320|A350|A321|B737,75,Available,True,56
+CC769,CC. Anaya Reddy,Cabin Crew,HYD,ATR72|A321|B737|B777,85,Available,False,15
+CC770,CC. Arnav Tiwari,Cabin Crew,MAA,ATR72|A350|B777|A321|B737,75,Available,True,79
+CC771,CC. Kiara Malhotra,Cabin Crew,MAA,B777|B737|A350|A320|A321|ATR72,80,Available,True,10
+CC772,CC. Aarush Choudhury,Cabin Crew,BLR,A320|A321|ATR72|B737|A350,85,Available,True,12
+CC773,CC. Sita Rao,Cabin Crew,BLR,A350|A320|B737|B777,85,Available,True,31
+CC774,CC. Kiara Singh,Cabin Crew,CCU,B777|A350|A320|B737,80,Available,True,29
+CC775,CC. Rajesh Pandey,Cabin Crew,HYD,A321|ATR72|B737|A350,75,Available,False,93
+CC776,CC. Rohan Chandra,Cabin Crew,HYD,B777|A320|ATR72|A321,80,Available,False,50
+CC777,CC. Dinesh Chandra,Cabin Crew,MAA,ATR72|A321|A320|B777|A350,85,Available,True,103
+CC778,CC. Umesh Iyer,Cabin Crew,BLR,A350|B737|ATR72|B777|A321,80,Available,True,21
+CC779,CC. Ishaan Gupta,Cabin Crew,MAA,ATR72|B777|B737|A321|A320,80,Available,False,100
+CC780,CC. Geeta Sharma,Cabin Crew,HYD,A320|B737|A350|A321|ATR72|B777,85,Available,True,14
+CC781,CC. Zara Agarwal,Cabin Crew,DEL,A320|B737|A350|A321|ATR72,75,Available,False,32
+CC782,CC. Suresh Dubey,Cabin Crew,MAA,ATR72|A321|A320|B737,85,Available,False,18
+CC783,CC. Anaya Reddy,Cabin Crew,DEL,B737|B777|A350|A321,85,Available,True,11
+CC784,CC. Naresh Singh,Cabin Crew,MAA,B737|ATR72|B777|A321|A320|A350,80,Available,False,117
+CC785,CC. Zara Rao,Cabin Crew,BLR,A321|B777|B737|A350,75,Available,True,11
+CC786,CC. Arjun Chandra,Cabin Crew,DEL,A350|ATR72|A320|A321|B777,85,Available,True,11
+CC787,CC. Kavya Sharma,Cabin Crew,CCU,A350|B737|A321|B777|A320,75,Available,True,101
+CC788,CC. Vihaan Patel,Cabin Crew,BLR,ATR72|B737|A321|A320,80,Available,False,116
+CC789,CC. Vihaan Malhotra,Cabin Crew,CCU,ATR72|A321|B737|A320|A350|B777,75,Available,False,46
+CC790,CC. Rajesh Khan,Cabin Crew,HYD,ATR72|B777|A350|A320,75,Available,True,96
+CC791,CC. Suresh Bhatt,Cabin Crew,BOM,A350|A320|A321|B737|ATR72|B777,75,Available,True,75
+CC792,CC. Ira Reddy,Cabin Crew,BOM,ATR72|A350|A320|B777|A321|B737,75,Available,True,49
+CC793,CC. Kiara Khan,Cabin Crew,BLR,B737|B777|A321|A350|ATR72,85,Available,False,105
+CC794,CC. Rita Jain,Cabin Crew,BLR,B777|A320|B737|A350|A321|ATR72,80,Sick,True,30
+CC795,CC. Rita Sinha,Cabin Crew,HYD,ATR72|A320|B737|A350|A321|B777,75,Available,True,72
+CC796,CC. Ishaan Dubey,Cabin Crew,MAA,B777|A320|A350|ATR72,85,Available,True,62
+CC797,CC. Reyansh Verma,Cabin Crew,MAA,A350|B777|A320|B737|A321,80,Available,False,53
+CC798,CC. Advait Rao,Cabin Crew,MAA,A320|A321|ATR72|B777|B737|A350,75,Available,True,75
+CC799,CC. Ishaan Menon,Cabin Crew,BLR,A321|B737|A320|B777,85,Available,True,38
+CC800,CC. Atharv Rao,Cabin Crew,BLR,ATR72|A321|B737|A350|A320,85,Available,False,50

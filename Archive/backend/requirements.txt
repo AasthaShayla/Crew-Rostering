@@ -1,0 +1,29 @@
+# Core optimization dependencies
+ortools>=9.7.2996
+pandas>=2.0.3
+numpy>=1.24.3
+
+# Web framework and API
+flask>=2.3.2
+flask-cors>=4.0.0
+flask-restful>=0.3.10
+flask-socketio>=5.3.4
+
+# Data handling
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Development and utilities
+python-dotenv>=1.0.0
+gunicorn>=21.2.0
+
+# Optional: Database support (if needed later)
+# sqlalchemy>=2.0.19
+# flask-sqlalchemy>=3.0.5
+
+# Optional: Async task processing
+# celery>=5.3.1
+# redis>=4.6.0
+
+# LLM parsing
+groq>=0.9.0
