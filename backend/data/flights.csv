@@ -1,0 +1,4 @@
+flight_id,date,dep_airport,arr_airport,dep_dt,arr_dt,aircraft_type,needed_captains,needed_fo,needed_cc
+AI101,2025-09-08,DEL,BOM,2025-09-08 08:00:00,2025-09-08 10:00:00,A320,1,1,2
+AI102,2025-09-08,BLR,HYD,2025-09-08 15:00:00,2025-09-08 17:00:00,A320,1,1,2
+AI103,2025-09-08,CCU,MAA,2025-09-08 20:00:00,2025-09-08 22:00:00,A320,1,1,2

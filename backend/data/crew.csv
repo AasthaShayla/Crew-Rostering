@@ -1,0 +1,19 @@
+crew_id,name,role,base,qualified_types,weekly_max_duty_hrs,leave_status,sccm_certified,experience_months
+CPT01,Capt.A,Captain,DEL,A320,80,Available,false,0
+CPT02,Capt.B,Captain,BOM,A320,80,Available,false,0
+CPT03,Capt.C,Captain,BLR,A320,80,Available,false,0
+CPT04,Capt.D,Captain,CCU,A320,80,Available,false,0
+FO01,FO.A,First Officer,DEL,A320,80,Available,false,0
+FO02,FO.B,First Officer,BLR,A320,80,Available,false,0
+FO03,FO.C,First Officer,BOM,A320,80,Available,false,0
+FO04,FO.D,First Officer,CCU,A320,80,Available,false,0
+CC01,CC.A,Cabin Crew,DEL,A320,80,Available,true,18
+CC02,CC.B,Cabin Crew,BOM,A320,80,Available,false,6
+CC03,CC.C,Cabin Crew,BLR,A320,80,Available,true,24
+CC04,CC.D,Cabin Crew,CCU,A320,80,Available,false,8
+CC05,CC.E,Cabin Crew,MAA,A320,80,Available,true,18
+CC06,CC.F,Cabin Crew,HYD,A320,80,Available,false,6
+CC07,CC.G,Cabin Crew,DEL,A320,80,Available,true,24
+CC08,CC.H,Cabin Crew,BOM,A320,80,Available,false,8
+CC09,CC.I,Cabin Crew,BLR,A320,80,Available,true,18
+CC10,CC.J,Cabin Crew,CCU,A320,80,Available,false,6

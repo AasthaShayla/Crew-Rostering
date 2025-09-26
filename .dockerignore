@@ -1,0 +1,12 @@
+# Global ignores
+.git
+.gitignore
+**/.DS_Store
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/.mypy_cache
+**/.vscode
+venv
+node_modules
+

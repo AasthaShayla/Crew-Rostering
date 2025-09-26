@@ -1,0 +1,101 @@
+crew_id,name,role,base,qualified_types,weekly_max_duty_hrs,leave_status,sccm_certified,experience_months
+CPT001,Capt. Aarav Sharma,Captain,DEL,"A320,A321,B737",80,Available,false,0
+CPT002,Capt. Vihaan Patel,Captain,BOM,"A320,A321,B737",80,Available,false,0
+CPT003,Capt. Arjun Singh,Captain,BLR,"A320,A321,B737",80,Available,false,0
+CPT004,Capt. Rohan Kumar,Captain,MAA,"A320,A321,B737",80,Available,false,0
+CPT005,Capt. Ishaan Gupta,Captain,CCU,"A320,A321,B737",80,Available,false,0
+CPT006,Capt. Advait Joshi,Captain,HYD,"A320,A321,B737",80,Available,false,0
+CPT007,Capt. Aarush Verma,Captain,DEL,"A320,A321,B737,B777",80,Available,false,0
+CPT008,Capt. Reyansh Reddy,Captain,BOM,"A320,A321,B737,B777",80,Available,false,0
+CPT009,Capt. Vivaan Iyer,Captain,BLR,"A320,A321,B737,B777",80,Available,false,0
+CPT010,Capt. Atharv Nair,Captain,MAA,"A320,A321,B737,B777",80,Available,false,0
+CPT011,Capt. Arnav Rao,Captain,CCU,"A320,A321,B737,B777",80,Available,false,0
+CPT012,Capt. Kabir Malhotra,Captain,HYD,"A320,A321,B737,B777",80,Available,false,0
+CPT013,Capt. Anaya Choudhury,Captain,DEL,"A320,A321,B737,B777,A350",80,Available,false,0
+CPT014,Capt. Zara Khan,Captain,BOM,"A320,A321,B737,B777,A350",80,Available,false,0
+CPT015,Capt. Aisha Kapoor,Captain,BLR,"A320,A321,B737,B777,A350",80,Available,false,0
+CPT016,Capt. Meera Shah,Captain,MAA,"A320,A321,B737,B777,A350",80,Available,false,0
+CPT017,Capt. Priya Desai,Captain,CCU,"A320,A321,B737,B777,A350",80,Available,false,0
+CPT018,Capt. Nisha Jain,Captain,HYD,"A320,A321,B737,B777,A350",80,Available,false,0
+CPT019,Capt. Kavya Menon,Captain,DEL,"A320,A321,B737,B777,A350",80,Available,false,0
+CPT020,Capt. Riya Bansal,Captain,BOM,"A320,A321,B737,B777,A350",80,Available,false,0
+FO001,FO. Arjun Sharma,First Officer,DEL,"A320,A321,B737",80,Available,false,0
+FO002,FO. Rohan Patel,First Officer,BOM,"A320,A321,B737",80,Available,false,0
+FO003,FO. Vihaan Singh,First Officer,BLR,"A320,A321,B737",80,Available,false,0
+FO004,FO. Ishaan Kumar,First Officer,MAA,"A320,A321,B737",80,Available,false,0
+FO005,FO. Aarav Gupta,First Officer,CCU,"A320,A321,B737",80,Available,false,0
+FO006,FO. Advait Joshi,First Officer,HYD,"A320,A321,B737",80,Available,false,0
+FO007,FO. Aarush Verma,First Officer,DEL,"A320,A321,B737,B777",80,Available,false,0
+FO008,FO. Reyansh Reddy,First Officer,BOM,"A320,A321,B737,B777",80,Available,false,0
+FO009,FO. Vivaan Iyer,First Officer,BLR,"A320,A321,B737,B777",80,Available,false,0
+FO010,FO. Atharv Nair,First Officer,MAA,"A320,A321,B737,B777",80,Available,false,0
+FO011,FO. Arnav Rao,First Officer,CCU,"A320,A321,B737,B777",80,Available,false,0
+FO012,FO. Kabir Malhotra,First Officer,HYD,"A320,A321,B737,B777",80,Available,false,0
+FO013,FO. Anaya Choudhury,First Officer,DEL,"A320,A321,B737,B777,A350",80,Available,false,0
+FO014,FO. Zara Khan,First Officer,BOM,"A320,A321,B737,B777,A350",80,Available,false,0
+FO015,FO. Aisha Kapoor,First Officer,BLR,"A320,A321,B737,B777,A350",80,Available,false,0
+FO016,FO. Meera Shah,First Officer,MAA,"A320,A321,B737,B777,A350",80,Available,false,0
+FO017,FO. Priya Desai,First Officer,CCU,"A320,A321,B737,B777,A350",80,Available,false,0
+FO018,FO. Nisha Jain,First Officer,HYD,"A320,A321,B737,B777,A350",80,Available,false,0
+FO019,FO. Kavya Menon,First Officer,DEL,"A320,A321,B737,B777,A350",80,Available,false,0
+FO020,FO. Riya Bansal,First Officer,BOM,"A320,A321,B737,B777,A350",80,Available,false,0
+CC001,CC. Aarav Sharma,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC002,CC. Vihaan Patel,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC003,CC. Arjun Singh,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC004,CC. Rohan Kumar,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC005,CC. Ishaan Gupta,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC006,CC. Advait Joshi,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC007,CC. Aarush Verma,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC008,CC. Reyansh Reddy,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC009,CC. Vivaan Iyer,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC010,CC. Atharv Nair,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC011,CC. Arnav Rao,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC012,CC. Kabir Malhotra,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC013,CC. Anaya Choudhury,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC014,CC. Zara Khan,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC015,CC. Aisha Kapoor,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC016,CC. Meera Shah,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC017,CC. Priya Desai,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC018,CC. Nisha Jain,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC019,CC. Kavya Menon,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC020,CC. Riya Bansal,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC021,CC. Aarav Sharma,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC022,CC. Vihaan Patel,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC023,CC. Arjun Singh,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC024,CC. Rohan Kumar,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC025,CC. Ishaan Gupta,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC026,CC. Advait Joshi,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC027,CC. Aarush Verma,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC028,CC. Reyansh Reddy,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC029,CC. Vivaan Iyer,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC030,CC. Atharv Nair,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC031,CC. Arnav Rao,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC032,CC. Kabir Malhotra,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC033,CC. Anaya Choudhury,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC034,CC. Zara Khan,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC035,CC. Aisha Kapoor,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC036,CC. Meera Shah,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC037,CC. Priya Desai,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC038,CC. Nisha Jain,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC039,CC. Kavya Menon,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC040,CC. Riya Bansal,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC041,CC. Aarav Sharma,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC042,CC. Vihaan Patel,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC043,CC. Arjun Singh,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC044,CC. Rohan Kumar,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC045,CC. Ishaan Gupta,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC046,CC. Advait Joshi,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC047,CC. Aarush Verma,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC048,CC. Reyansh Reddy,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC049,CC. Vivaan Iyer,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC050,CC. Atharv Nair,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC051,CC. Arnav Rao,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC052,CC. Kabir Malhotra,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC053,CC. Anaya Choudhury,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC054,CC. Zara Khan,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6
+CC055,CC. Aisha Kapoor,Cabin Crew,DEL,"A320,A321,B737,B777,A350",80,Available,true,24
+CC056,CC. Meera Shah,Cabin Crew,BOM,"A320,A321,B737,B777,A350",80,Available,false,6
+CC057,CC. Priya Desai,Cabin Crew,BLR,"A320,A321,B737,B777,A350",80,Available,true,24
+CC058,CC. Nisha Jain,Cabin Crew,MAA,"A320,A321,B737,B777,A350",80,Available,false,6
+CC059,CC. Kavya Menon,Cabin Crew,CCU,"A320,A321,B737,B777,A350",80,Available,true,24
+CC060,CC. Riya Bansal,Cabin Crew,HYD,"A320,A321,B737,B777,A350",80,Available,false,6

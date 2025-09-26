@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: crew-backend
+    env: docker
+    rootDir: backend
+    dockerfilePath: backend/Dockerfile
+    plan: starter
+    autoDeploy: true
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: CORS_ALLOWED_ORIGINS
+        value: https://crew-frontend.onrender.com
+      # Add your API keys and other env vars here (set sync: false for secrets)
+      # - key: GROQ_API_KEY
+      #   sync: false
+      # - key: OTHER_VAR
+      #   value: your_value
+    healthCheckPath: /api/health
+
+  - type: web
+    name: crew-frontend
+    env: docker
+    rootDir: frontend
+    dockerfilePath: frontend/Dockerfile
+    plan: starter
+    autoDeploy: true
+    envVars:
+      # Set this to the actual backend URL after backend deploys
+      - key: REACT_APP_API_URL
+        value: https://crew-backend.onrender.com

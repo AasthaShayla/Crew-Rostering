@@ -1,0 +1,10 @@
+{
+  "short_name": "CrewRostering",
+  "name": "Airline Crew Rostering Optimization",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "description": "Airline Crew Rostering Optimization System with What-If Scenario Analysis"
+}
