@@ -1,0 +1,15 @@
+app = "crew-frontend"
+primary_region = "bom"
+
+[build]
+  dockerfile = "Dockerfile"
+  [build.args]
+    REACT_APP_API_URL = "https://crew-backend.fly.dev"
+
+[[services]]
+  internal_port = 80
+  protocol = "tcp"
+  [[services.ports]]
+    port = 80
+  [[services.ports]]
+    port = 443

@@ -1,0 +1,23 @@
+app = "crew-backend"
+primary_region = "bom"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  # Fly sets PORT automatically; your app should bind 0.0.0.0:$PORT
+  # If you look up PORT at runtime, keep doing that.
+
+[[services]]
+  internal_port = 8080
+  protocol = "tcp"
+
+  [[services.ports]]
+    port = 80
+  [[services.ports]]
+    port = 443
+
+  [services.concurrency]
+    type = "connections"
+    soft_limit = 100
+    hard_limit = 200
