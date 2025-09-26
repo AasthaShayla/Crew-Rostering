@@ -34,7 +34,10 @@ import { apiService, connectSocket, disconnectSocket } from './services/api';
 import FlightWiseView from './components/FlightWiseView';
 import CrewWiseView from './components/CrewWiseView';
 import DisruptionManagement from './components/DisruptionManagement';
+<<<<<<< HEAD
 import MinimalDisruptionLab from './components/MinimalDisruptionLab';
+=======
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
 import DashboardView from './components/DashboardView';
 import WeatherCalendarView from './components/WeatherCalendarView';
 
@@ -357,7 +360,11 @@ function App() {
         );
       case 3:
         return (
+<<<<<<< HEAD
           <MinimalDisruptionLab
+=======
+          <DisruptionManagement
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
             flights={flights}
             crew={crew}
             baselineRoster={baselineRoster}
@@ -381,7 +388,11 @@ function App() {
     { text: 'Flight View', icon: <IndigoFlightIcon />, index: 1 },
     { text: 'Crew View', icon: <Person />, index: 2 },
     { text: 'Disruption Lab', icon: <Warning />, index: 3 },
+<<<<<<< HEAD
     { text: 'Unforseen Extention Predictions', icon: <Cloud />, index: 4 },
+=======
+    { text: 'Weather Forecast', icon: <Cloud />, index: 4 },
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
   ];
 
   return (
@@ -521,4 +532,8 @@ function App() {
   );
 }
 
+<<<<<<< HEAD
 export default App;
+=======
+export default App;
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663

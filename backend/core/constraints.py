@@ -135,13 +135,18 @@ def build_model_with_constraints(
                     req = max(req, min_sccm_ulh)
                 model.Add(sum(sccm_vars) >= req)
 
+<<<<<<< HEAD
     # --- No overlap per crew (with DGCA compliance) ---
     # AddNoOverlap over that crew's intervals ensures they don't clash in time,
     # and turnaround padding is already included in interval size.
+=======
+
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
     for c_id, iv_list in intervals_by_crew.items():
         if iv_list:
             model.AddNoOverlap(iv_list)
     
+<<<<<<< HEAD
     # --- DGCA Rule: Minimum rest between duties ---
     # For each crew, ensure minimum rest hours between consecutive duties
     min_rest_seconds = rules.min_rest_hours_between_duties * 3600
@@ -151,32 +156,55 @@ def build_model_with_constraints(
         crew_assignments = [(f_id, bundle.flights_by_id[f_id]) for (c_id_var, f_id, r, s) in x if c_id_var == c_id]
 
         # Remove duplicates (same flight, different roles/slots)
+=======
+  
+    min_rest_seconds = rules.min_rest_hours_between_duties * 3600
+
+    for c_id in intervals_by_crew:
+        crew_assignments = [(f_id, bundle.flights_by_id[f_id]) for (c_id_var, f_id, r, s) in x if c_id_var == c_id]
+
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
         unique_flights = {}
         for f_id, flight in crew_assignments:
             if f_id not in unique_flights:
                 unique_flights[f_id] = flight
 
+<<<<<<< HEAD
         # Sort flights by departure time
         sorted_flights = sorted(unique_flights.items(), key=lambda item: item[1].dep_dt)
 
         # Apply rest constraints between consecutive flights
+=======
+        sorted_flights = sorted(unique_flights.items(), key=lambda item: item[1].dep_dt)
+
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
         for i in range(len(sorted_flights) - 1):
             f1_id, f1 = sorted_flights[i]
             f2_id, f2 = sorted_flights[i + 1]
 
+<<<<<<< HEAD
             # Calculate actual rest time available
             rest_time_available = (f2.dep_dt.timestamp() - f1.arr_dt.timestamp())
 
             # Only apply constraint if rest time is insufficient
             if rest_time_available < min_rest_seconds:
                 # Find all decision variables for f1 and f2 for this crew
+=======
+            rest_time_available = (f2.dep_dt.timestamp() - f1.arr_dt.timestamp())
+
+            if rest_time_available < min_rest_seconds:
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
                 f1_vars = [var for (c_id_var, f_id, r, s), var in x.items()
                           if c_id_var == c_id and f_id == f1_id]
                 f2_vars = [var for (c_id_var, f_id, r, s), var in x.items()
                           if c_id_var == c_id and f_id == f2_id]
 
+<<<<<<< HEAD
                 # If any assignment to f1 and any assignment to f2 are both selected,
                 # it violates the rest constraint
+=======
+
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
                 for var1 in f1_vars:
                     for var2 in f2_vars:
                         model.Add(var1 + var2 <= 1)
@@ -247,6 +275,7 @@ def build_model_with_constraints(
     minutes_by_crew_day: Dict[Tuple[str, str], cp_model.IntVar] = {}
     overtime_by_crew: Dict[str, cp_model.IntVar] = {}
 
+<<<<<<< HEAD
     # Precompute per-assignment minutes
     # (All assignments on the same flight share the same minutes.)
     # We'll use elig.minutes_by_flight.
@@ -259,6 +288,16 @@ def build_model_with_constraints(
         # total minutes
         tot = model.NewIntVar(0, 10_000_000, f"tot[{c_id}]")
         # linear expression for total minutes from all assignments of this crew
+=======
+    days = bundle.operating_days
+
+
+    for c in bundle.crew:
+        c_id = c.crew_id
+
+        tot = model.NewIntVar(0, 10_000_000, f"tot[{c_id}]")
+
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
         total_terms = []
         for (cc, f_id, r, s), var in x.items():
             if cc != c_id:
@@ -271,12 +310,20 @@ def build_model_with_constraints(
             model.Add(tot == 0)
         minutes_total_by_crew[c_id] = tot
 
+<<<<<<< HEAD
         # Per-day caps
+=======
+
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
         daily_cap_hours = rules.daily_cap_for_role(role_key(c.role))  # hours
         daily_cap_minutes = daily_cap_hours * 60
 
         for d in days:
+<<<<<<< HEAD
             # Per-day duty minutes
+=======
+
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
             dvar = model.NewIntVar(0, 1_000_000, f"day[{c_id},{d}]")
             d_terms = []
             # Per-day flight count
@@ -332,9 +379,12 @@ def build_model_with_constraints(
             # DGCA FDP landings cap (conservative): max 6 landings per duty day
             model.Add(fcnt <= 6)
 
+<<<<<<< HEAD
             # DGCA FDP landings cap (piecewise by daily flight time)
             # Base cap: 6; tightened when daily flight time exceeds thresholds (8h -> 3, 11h -> 1)
             # Piecewise brackets for daily flight time minutes
+=======
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
             b_le_8  = model.NewBoolVar(f"b_le_8[{c_id},{d}]")     # dvar <= 8h
             b_8_11  = model.NewBoolVar(f"b_8_11[{c_id},{d}]")     # 8h &lt; dvar &lt;= 11h
             b_gt_11 = model.NewBoolVar(f"b_gt_11[{c_id},{d}]")    # dvar &gt; 11h

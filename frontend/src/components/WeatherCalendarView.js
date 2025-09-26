@@ -172,7 +172,11 @@ const WeatherCalendarView = () => {
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
               <Cloud sx={{ color: 'primary.main' }} />
               <Typography variant="h5" sx={{ color: '#1A1A1A', fontWeight: 600 }}>
+<<<<<<< HEAD
                 Unforseen Extention Predictions
+=======
+                Weather Forecast Impact Calendar
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
               </Typography>
             </Box>
             <Box>
@@ -384,4 +388,8 @@ const WeatherCalendarView = () => {
   );
 };
 
+<<<<<<< HEAD
 export default WeatherCalendarView;
+=======
+export default WeatherCalendarView;
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663

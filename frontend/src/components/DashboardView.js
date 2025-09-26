@@ -6,6 +6,10 @@ import {
   Box,
   Grid,
   Paper,
+<<<<<<< HEAD
+=======
+  Button,
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
   LinearProgress,
   Alert,
 } from '@mui/material';
@@ -13,11 +17,22 @@ import {
   PlayArrow,
   Refresh,
   Assessment,
+<<<<<<< HEAD
 } from '@mui/icons-material';
 
 import OptimizationControl from './OptimizationControl';
 import RosterVisualization from './RosterVisualization';
 import PostRosterInsights from './PostRosterInsights';
+=======
+  Schedule,
+} from '@mui/icons-material';
+import { DatePicker } from '@mui/x-date-pickers/DatePicker';
+import dayjs from 'dayjs';
+
+import OptimizationControl from './OptimizationControl';
+import RosterVisualization from './RosterVisualization';
+// import PostRosterInsights from './PostRosterInsights';
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
 
 const DashboardView = ({
   currentRoster,
@@ -32,6 +47,35 @@ const DashboardView = ({
   const [selectedDate, setSelectedDate] = useState(null);
   return (
     <Box sx={{ display: 'flex', flexDirection: 'column', gap: 3 }}>
+<<<<<<< HEAD
+=======
+      {/* Header */}
+      <Card>
+        <CardContent>
+          <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
+            <Schedule sx={{ mr: 1, color: 'primary.main' }} />
+            <Typography variant="h5" sx={{ color: '#1A1A1A', fontWeight: 600 }}>
+              Current Roster Overview
+            </Typography>
+          </Box>
+          <Typography variant="body2" color="text.secondary">
+            View and manage your current crew roster assignments and performance metrics.
+          </Typography>
+          <Box sx={{ mt: 2, display: 'flex', gap: 2, alignItems: 'center' }}>
+            <DatePicker
+              label="Filter by Date"
+              value={selectedDate}
+              onChange={(d) => setSelectedDate(d)}
+              slotProps={{ textField: { size: 'small', sx: { minWidth: 180 } } }}
+            />
+            <Button variant="outlined" size="small" onClick={() => setSelectedDate(null)}>
+              All Days
+            </Button>
+          </Box>
+        </CardContent>
+      </Card>
+
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
       {/* Optimization Control Panel */}
       <OptimizationControl
         onOptimize={onOptimize}
@@ -72,12 +116,16 @@ const DashboardView = ({
             controlledDate={selectedDate}
             onChangeDate={setSelectedDate}
           />
+<<<<<<< HEAD
           {/* Post-Roster Insights: Standby, Discretion, Overtime */}
           {currentRoster.insights && (
             <Box sx={{ mt: 3 }}>
               <PostRosterInsights insights={currentRoster.insights} />
             </Box>
           )}
+=======
+          
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
         </>
       )}
 

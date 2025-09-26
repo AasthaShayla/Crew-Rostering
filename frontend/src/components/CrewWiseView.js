@@ -39,6 +39,21 @@ import {
   CalendarToday,
 } from '@mui/icons-material';
 import dayjs from 'dayjs';
+<<<<<<< HEAD
+=======
+import {
+  BarChart,
+  Bar,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip as RechartsTooltip,
+  ResponsiveContainer,
+  PieChart,
+  Pie,
+  Cell,
+} from 'recharts';
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
 
 // Custom IndiGo-style flight icon
 const IndigoFlightIcon = ({ sx = {} }) => (
@@ -192,6 +207,24 @@ const CrewWiseView = ({ crew, currentRoster, flights }) => {
     }
   }, [filteredCrew, selectedCrew]);
 
+<<<<<<< HEAD
+=======
+  // Get duty hours statistics
+  const dutyStats = useMemo(() => {
+    const stats = {
+      low: 0,
+      medium: 0,
+      high: 0,
+      total: crewWithDutyHours.length,
+    };
+    
+    crewWithDutyHours.forEach(member => {
+      stats[member.dutyLevel]++;
+    });
+    
+    return stats;
+  }, [crewWithDutyHours]);
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
 
   const handleCrewClick = (member) => {
     setSelectedCrew(member);
@@ -284,6 +317,24 @@ const CrewWiseView = ({ crew, currentRoster, flights }) => {
     }
   };
 
+<<<<<<< HEAD
+=======
+  // Prepare data for charts
+  const chartData = [
+    { name: 'Low Duty', value: dutyStats.low, color: '#2E8B57' },
+    { name: 'Medium Duty', value: dutyStats.medium, color: '#FFB020' },
+    { name: 'High Duty', value: dutyStats.high, color: '#D93025' },
+  ];
+
+  const dutyHoursData = crewWithDutyHours
+    .sort((a, b) => b.totalHours - a.totalHours)
+    .slice(0, 10)
+    .map(member => ({
+      name: member.crew_id,
+      hours: member.totalHours,
+      level: member.dutyLevel,
+    }));
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
 
   return (
     <Box sx={{ display: 'flex', flexDirection: 'column', gap: 3 }}>
@@ -353,6 +404,58 @@ const CrewWiseView = ({ crew, currentRoster, flights }) => {
         </CardContent>
       </Card>
 
+<<<<<<< HEAD
+=======
+      {/* Duty Hours Overview */}
+      <Grid container spacing={3}>
+        <Grid item xs={12} md={4}>
+          <Card>
+            <CardContent>
+              <Typography variant="h6" gutterBottom sx={{ color: '#1A1A1A' }}>
+                Duty Level Distribution
+              </Typography>
+              <ResponsiveContainer width="100%" height={200}>
+                <PieChart>
+                  <Pie
+                    data={chartData}
+                    dataKey="value"
+                    nameKey="name"
+                    cx="50%"
+                    cy="50%"
+                    outerRadius={60}
+                    label
+                  >
+                    {chartData.map((entry, index) => (
+                      <Cell key={`cell-${index}`} fill={entry.color} />
+                    ))}
+                  </Pie>
+                  <RechartsTooltip />
+                </PieChart>
+              </ResponsiveContainer>
+            </CardContent>
+          </Card>
+        </Grid>
+
+        <Grid item xs={12} md={8}>
+          <Card>
+            <CardContent>
+              <Typography variant="h6" gutterBottom sx={{ color: '#1A1A1A' }}>
+                Top 10 Crew by Duty Hours
+              </Typography>
+              <ResponsiveContainer width="100%" height={200}>
+                <BarChart data={dutyHoursData}>
+                  <CartesianGrid strokeDasharray="3 3" />
+                  <XAxis dataKey="name" />
+                  <YAxis />
+                  <RechartsTooltip />
+                  <Bar dataKey="hours" fill="#1976d2" />
+                </BarChart>
+              </ResponsiveContainer>
+            </CardContent>
+          </Card>
+        </Grid>
+      </Grid>
+>>>>>>> 58238b40cb6a50a8a32e8a4f00a31adaa7e93663
 
       <Grid container spacing={3}>
         {/* Crew List */}
